@@ -11,7 +11,7 @@ Want to know more about me? Check out my links below.
 [![Spotify Badge](https://img.shields.io/badge/Spotify-informational?style=flat&logo=spotify&logoColor=white&color=1DB954)](https://open.spotify.com/track/1AQLopqKVQInHPWOqgv2J0?si=eda59e5e385b4031)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/gerard_west/)
 <img src="https://komarev.com/ghpvc/?username=wesleyscholl&label=Profile%20views&color=1f6feb" alt="wesleyscholl" />
-<br> 
+<br><br> 
 
 # 📊 Stats
 <br>
@@ -34,7 +34,7 @@ Want to know more about me? Check out my links below.
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=wesleyscholl&theme=react-dark&bg_color=20232A&hide=html,css,scss" />
     </a>
 </div>
-
+<br><br>
 
 # 👨🏻‍💻 Skills
 <br>
