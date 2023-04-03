@@ -24,11 +24,6 @@ Want to know more about me? Check out my links below.
   </a>  
   </div>
 <br>
-<div align=center>
- <img src="/github-metrics.svg" alt="Metrics" width="400" margin-right='50'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/wesleyscholl">
-<img width='400px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyscholl&hide=html,css&langs_count=10&bg_color=20232A&layout=compact&theme=react" />
-    </a>
   <a href="https://github.com/wesleyscholl">
 <img height='315px' src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=calendar&format=svg&weeks=10&theme=cyan&dark=true" />
       </a>
