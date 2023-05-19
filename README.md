@@ -16,9 +16,9 @@ Want to know more about me? Check out my links below.
 # 📊 Stats
 <br>
 <div align=center>
-<!--  <a href="https://github.com/wesleyscholl">
+ <a href="https://github.com/wesleyscholl">
   <img width='400px' src="https://github-readme-stats.vercel.app/api?username=wesleyscholl&show_icons=true&count_private=true&bg_color=20232A&theme=react" alt="Wesley's GitHub Stats" />
-</a> -->
+</a>
 <a href="https://github.com/wesleyscholl">
   <img width='425px' src="https://github-readme-streak-stats.herokuapp.com?user=wesleyscholl&theme=react&bg_color=20232A" />
   </a>  
