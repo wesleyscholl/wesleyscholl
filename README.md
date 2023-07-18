@@ -28,9 +28,9 @@ Want to know more about me? Check out my links below.
 <img height='315px' src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=calendar&format=svg&weeks=20&theme=cyan&dark=true" />
       </a>
  </div>
-  <a href="https://github.com/wesleyscholl">
+<!--   <a href="https://github.com/wesleyscholl">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=wesleyscholl&theme=react-dark&bg_color=20232A&hide=html,css,scss" />
-    </a>
+    </a> -->
 </div>
 <br><br>
 
