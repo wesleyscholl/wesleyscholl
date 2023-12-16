@@ -25,7 +25,7 @@ Want to know more about me? Check out my links below.
   </div>
 <div align=center>
   <a href="https://github.com/wesleyscholl">
-<img height='315px' src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=calendar&format=svg&weeks=20&theme=cyan&dark=true" />
+<img height='315px' src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=calendar&format=svg&weeks=10&theme=cyan&dark=true" />
       </a>
  </div>
 <!--   <a href="https://github.com/wesleyscholl">
