@@ -46,7 +46,9 @@ Want to know more about me? Check out my links below.
 ![](https://img.shields.io/badge/Workflows-Argo-informational?style=flat&logo=argo&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Workflows-GitHub-informational?style=flat&logo=github&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=1f6feb)
-![](https://img.shields.io/badge/Tools-ApolloGraphQL-informational?style=flat&logo=apollographql&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-ApolloGraphQL-informational?style=flat&logo=apollographql&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=csharp&logoColor=white&color=1f6feb)
+
 
 <br>
 <details>
