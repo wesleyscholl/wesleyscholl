@@ -48,6 +48,8 @@ Want to know more about me? Check out my links below.
 ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-ApolloGraphQL-informational?style=flat&logo=apollographql&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=1f6feb)
+
 
 
 <br>
