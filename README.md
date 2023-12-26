@@ -40,10 +40,10 @@ Want to know more about me? Check out my links below.
 # 👨🏻‍💻 Skills
 <br>
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=62DAFB)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=62DAFB)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=62DAFB)
-![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=nodedotjs&logoColor=white&color=62DAFB)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=324A6A)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=38607E)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4887AB)
+![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=nodedotjs&logoColor=white&color=80C7D9)
 ![](https://img.shields.io/badge/Workflows-Argo-informational?style=flat&logo=argo&logoColor=white&color=62DAFB)
 ![](https://img.shields.io/badge/Workflows-GitHub-informational?style=flat&logo=github&logoColor=white&color=62DAFB)
 ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=62DAFB)
