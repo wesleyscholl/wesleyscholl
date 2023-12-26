@@ -24,7 +24,7 @@ Want to know more about me? Check out my links below.
   </a>  
   </div>
 <div align=center>
-<a href="https://github.com/wesleyscholl"><img alt="Wesley's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF"/></a>
+<a href="https://github.com/wesleyscholl"><img alt="Wesley's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=wesleyscholl&theme=react-dark"/></a>
    </div>
 <div align=center>
   <a href="https://github.com/wesleyscholl">
