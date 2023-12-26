@@ -37,22 +37,22 @@ Want to know more about me? Check out my links below.
 # 👨🏻‍💻 Skills
 <br>
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=1f6feb)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=1f6feb)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=1f6feb)
-![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=nodedotjs&color=1f6feb)
-![](https://img.shields.io/badge/Workflows-Argo-informational?style=flat&logo=argo&color=1f6feb)
-![](https://img.shields.io/badge/Workflows-GitHub-informational?style=flat&logo=github&color=1f6feb)
-![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&color=1f6feb)
-![](https://img.shields.io/badge/Code-ApolloGraphQL-informational?style=flat&logo=apollographql&color=1f6feb)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&color=1f6feb)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&color=1f6feb)
-![](https://img.shields.io/badge/Code-CockroachDB-informational?style=flat&logo=cockroachlabs&color=1f6feb)
-![](https://img.shields.io/badge/Code-Cucumber-informational?style=flat&logo=cucumber&color=1f6feb)
-![](https://img.shields.io/badge/Code-YAML-informational?style=flat&logo=yaml&color=1f6feb)
-![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&color=1f6feb)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=1f6feb)
-![](https://img.shields.io/badge/Code-ShellScript-informational?style=flat&logo=gnubash&color=1f6feb)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=nodedotjs&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Workflows-Argo-informational?style=flat&logo=argo&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Workflows-GitHub-informational?style=flat&logo=github&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-ApolloGraphQL-informational?style=flat&logo=apollographql&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-CockroachDB-informational?style=flat&logo=cockroachlabs&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-YAML-informational?style=flat&logo=yaml&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-ShellScript-informational?style=flat&logo=gnubash&logoColor=white&color=1f6feb)
 
 <br>
 <details>
