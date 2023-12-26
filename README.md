@@ -41,7 +41,6 @@ Want to know more about me? Check out my links below.
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=1f6feb)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=nodedotjs&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Workflows-Argo-informational?style=flat&logo=argo&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Workflows-GitHub-informational?style=flat&logo=github&logoColor=white&color=1f6feb)
@@ -64,6 +63,7 @@ Want to know more about me? Check out my links below.
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Code-iOS-informational?style=flat&logo=ios&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Tools-Expo-informational?style=flat&logo=expo&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Code-Web3.JS-informational?style=flat&logo=web3dotjs&logoColor=white&color=712cf9)
@@ -83,9 +83,9 @@ Want to know more about me? Check out my links below.
     ![](https://img.shields.io/badge/Tools-CreateReactApp-informational?style=flat&logo=createreactapp&logoColor=white&color=712cf9)
     ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Code-.ENV-informational?style=flat&logo=.env&logoColor=white&color=712cf9)
-![](https://img.shields.io/badge/Tools-AzureDevops-informational?style=flat&logo=azuredevops&logoColor=white&color=1f6feb)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=1f6feb)
-![](https://img.shields.io/badge/Tools-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Tools-AzureDevops-informational?style=flat&logo=azuredevops&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=712cf9)
      
 
 <br>
