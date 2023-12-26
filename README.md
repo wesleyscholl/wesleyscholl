@@ -7,10 +7,9 @@ With all the projects that I take on, I bring high value skills, a depth of know
 
 Want to know more about me? Check out my links below.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/wesleyscholl/)
-[![Spotify Badge](https://img.shields.io/badge/Spotify-informational?style=flat&logo=spotify&logoColor=white&color=1DB954)](https://open.spotify.com/track/1AQLopqKVQInHPWOqgv2J0?si=eda59e5e385b4031)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E1306C)](https://www.instagram.com/gerard_west/)
-<img src="https://komarev.com/ghpvc/?username=wesleyscholl&label=Profile%20views&color=4887AB" alt="wesleyscholl" />
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=194A6A)](https://www.linkedin.com/in/wesleyscholl/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=40607E)](https://www.instagram.com/gerard_west/)
+<img src="https://komarev.com/ghpvc/?username=wesleyscholl&label=Profile%20views&color=77C7D9" alt="wesleyscholl" />
 <br><br> 
 
 # 📊 Stats
