@@ -16,9 +16,9 @@ Want to know more about me? Check out my links below.
 # 📊 Stats
 <br>
 <div align=center>
-<!--  <a href="https://github.com/wesleyscholl">
+<a href="https://github.com/wesleyscholl">
   <img width='400px' src="https://github-readme-stats.vercel.app/api?username=wesleyscholl&show_icons=true&count_private=true&bg_color=20232A&theme=react" alt="Wesley's GitHub Stats" />
-</a> -->
+</a> 
 <a href="https://github.com/wesleyscholl">
   <img width='425px' src="https://github-readme-streak-stats.herokuapp.com?user=wesleyscholl&theme=react&bg_color=20232A" />
   </a>  
@@ -49,9 +49,10 @@ Want to know more about me? Check out my links below.
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-CockroachDB-informational?style=flat&logo=cockroachlabs&logoColor=white&color=1f6feb)
-
-
-
+![](https://img.shields.io/badge/Code-Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-YAML-informational?style=flat&logo=yaml&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-ShellScript-informational?style=flat&logo=gnubash&logoColor=white&color=1f6feb)
 
 <br>
 <details>
@@ -86,7 +87,29 @@ Want to know more about me? Check out my links below.
 ![](https://img.shields.io/badge/Tools-AzureDevops-informational?style=flat&logo=azuredevops&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=712cf9)
 ![](https://img.shields.io/badge/Tools-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=712cf9)
-     
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-MicrosoftAzure-informational?style=flat&logo=microsoftazure&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=712cf9)
+  ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=712cf9)   
+![](https://img.shields.io/badge/Tools-GoogleBard-informational?style=flat&logo=googlebard&logoColor=white&color=712cf9) 
+![](https://img.shields.io/badge/Tools-GoogleAppsScript-informational?style=flat&logo=googleappsscript&logoColor=white&color=712cf9) 
+![](https://img.shields.io/badge/Tools-GoogleColab-informational?style=flat&logo=googlecolab&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-Rancher-informational?style=flat&logo=rancher&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-styled-components-informational?style=flat&logo=styledcomponents&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-Invision-informational?style=flat&logo=invision&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-WebdriverIO-informational?style=flat&logo=webdriverio&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-Puppeteer-informational?style=flat&logo=puppeteer&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-GithubCopilot-informational?style=flat&logo=githubcopilot&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=sonarqube&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-Unicode-informational?style=flat&logo=unicode&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-GoogleDocsAPI-informational?style=flat&logo=googledocs&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-GoogleDriveAPI-informational?style=flat&logo=googledrive&logoColor=white&color=712cf9)
+
 
 <br>
 </details>
