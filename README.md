@@ -49,6 +49,8 @@ Want to know more about me? Check out my links below.
 ![](https://img.shields.io/badge/Code-ApolloGraphQL-informational?style=flat&logo=apollographql&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-CockroachDB-informational?style=flat&logo=cockroachlabs&logoColor=white&color=1f6feb)
+
 
 
 
@@ -78,7 +80,13 @@ Want to know more about me? Check out my links below.
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=712cf9)
   ![](https://img.shields.io/badge/Code-JSON-informational?style=flat&logo=json&logoColor=white&color=712cf9)
     ![](https://img.shields.io/badge/Tools-XCode-informational?style=flat&logo=xcode&logoColor=white&color=712cf9)
-     ![](https://img.shields.io/badge/Tools-CreateReactApp-informational?style=flat&logo=createreactapp&logoColor=white&color=712cf9)
+    ![](https://img.shields.io/badge/Tools-CreateReactApp-informational?style=flat&logo=createreactapp&logoColor=white&color=712cf9)
+    ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Code-.ENV-informational?style=flat&logo=.env&logoColor=white&color=712cf9)
+![](https://img.shields.io/badge/Tools-AzureDevops-informational?style=flat&logo=azuredevops&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Tools-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=1f6feb)
+     
 
 <br>
 </details>
