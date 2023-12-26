@@ -1,4 +1,4 @@
-# Hi I'm Wes <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='50' height='50'/>
+# Hi I'm Wes <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='40' height='40'/>
 ![Vanilla-10s-280px](https://github.com/wesleyscholl/wesleyscholl/assets/128409641/ea9e7e53-1563-4138-af59-c0e1e521d94d) I’m a full stack engineer with 5 years of experience. 
 
 | 👨🏻‍💻 Skills | 📊 Stats |
