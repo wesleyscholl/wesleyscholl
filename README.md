@@ -8,7 +8,7 @@ With all the projects that I take on, I bring high value skills, a depth of know
 Want to know more about me? Check out my links below.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=194A6A)](https://www.linkedin.com/in/wesleyscholl/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=40607E)](https://www.instagram.com/gerard_west/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=6087AB)](https://www.instagram.com/gerard_west/)
 <img src="https://komarev.com/ghpvc/?username=wesleyscholl&label=Profile%20views&color=77C7D9" alt="wesleyscholl" />
 <br><br> 
 
