@@ -39,7 +39,6 @@ Want to know more about me? Check out my links below.
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1f6feb)
-![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=nodedotjs&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Workflows-Argo-informational?style=flat&logo=argo&logoColor=white&color=1f6feb)
@@ -51,6 +50,7 @@ Want to know more about me? Check out my links below.
 ![](https://img.shields.io/badge/Code-CockroachDB-informational?style=flat&logo=cockroachlabs&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-YAML-informational?style=flat&logo=yaml&logoColor=white&color=1f6feb)
+![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=1f6feb)
 ![](https://img.shields.io/badge/Code-ShellScript-informational?style=flat&logo=gnubash&logoColor=white&color=1f6feb)
 
