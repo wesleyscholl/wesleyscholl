@@ -1,31 +1,28 @@
 # Hi I'm Wes <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='50' height='50'/> ![Vanilla-10s-280px (1)](https://github.com/wesleyscholl/wesleyscholl/assets/128409641/e5712b1c-243b-4f16-8fbe-a7bec291b98f)
-I’m a full stack engineer with 5 years of experience. 
+I’m a full stack engineer. 
 
+   
+### 👨🏻‍💻 Skills & Stats
 
-| 👨🏻‍💻 Skills | 📊 Stats |
-| - | - |
-| ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=194A6A) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=194A6A) ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=254A6A) ![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=nodedotjs&logoColor=white&color=254A6A) ![](https://img.shields.io/badge/Workflows-Argo-informational?style=flat&logo=argo&logoColor=white&color=35607E) ![](https://img.shields.io/badge/Workflows-GitHub-informational?style=flat&logo=github&logoColor=white&color=35607E) ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=40607E) ![](https://img.shields.io/badge/Code-ApolloGraphQL-informational?style=flat&logo=apollographql&logoColor=white&color=40607E) ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=4887AB) ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=4887AB) ![](https://img.shields.io/badge/Code-CockroachDB-informational?style=flat&logo=cockroachlabs&logoColor=white&color=6087AB) ![](https://img.shields.io/badge/Code-Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=6087AB) ![](https://img.shields.io/badge/Code-YAML-informational?style=flat&logo=yaml&logoColor=white&color=7487AB) ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&logoColor=white&color=7487AB) ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=77C7D9) ![](https://img.shields.io/badge/Code-ShellScript-informational?style=flat&logo=gnubash&logoColor=white&color=77C7D9) | <div align=center><a href="https://github.com/wesleyscholl"><img width='400px' src="https://github-readme-stats.vercel.app/api?username=wesleyscholl&show_icons=true&count_private=true&bg_color=20232A&theme=react" alt="Wesley's GitHub Stats" /></a> <a href="https://github.com/wesleyscholl"><img width='425px' src="https://github-readme-streak-stats.herokuapp.com?user=wesleyscholl&theme=react&bg_color=20232A" /></a></div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=194A6A) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=194A6A) ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=254A6A) ![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=nodedotjs&logoColor=white&color=254A6A) ![](https://img.shields.io/badge/Workflows-Argo-informational?style=flat&logo=argo&logoColor=white&color=35607E) ![](https://img.shields.io/badge/Workflows-GitHub-informational?style=flat&logo=github&logoColor=white&color=35607E) ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=40607E) ![](https://img.shields.io/badge/Code-ApolloGraphQL-informational?style=flat&logo=apollographql&logoColor=white&color=40607E) ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=4887AB) ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=4887AB) ![](https://img.shields.io/badge/Code-CockroachDB-informational?style=flat&logo=cockroachlabs&logoColor=white&color=6087AB) ![](https://img.shields.io/badge/Code-Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=6087AB) ![](https://img.shields.io/badge/Code-YAML-informational?style=flat&logo=yaml&logoColor=white&color=7487AB) ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&logoColor=white&color=7487AB) ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=77C7D9) ![](https://img.shields.io/badge/Code-ShellScript-informational?style=flat&logo=gnubash&logoColor=white&color=77C7D9)
+
+<a href="https://github.com/wesleyscholl"><img src="https://github-readme-stats.vercel.app/api?username=wesleyscholl&show_icons=true&count_private=true&bg_color=20232A&theme=react" alt="Wesley's GitHub Stats" />
+</a> <a href="https://github.com/wesleyscholl"><img src="https://github-readme-streak-stats.herokuapp.com?user=wesleyscholl&theme=react&bg_color=20232A" /></a>
+
 
 <div align=center>
 <a href="https://github.com/wesleyscholl"><img alt="Wesley's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&height=300&hide_title=true&radius=5"/></a>
    </div>
 <div align=center>
   <a href="https://github.com/wesleyscholl">
-<img height='315px' src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=calendar&format=svg&weeks=26&theme=cyan&dark=true" />
+<img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=calendar&format=svg&weeks=26&theme=cyan&dark=true" />
       </a>
  </div>
-<!--   <a href="https://github.com/wesleyscholl">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=wesleyscholl&theme=react-dark&bg_color=20232A&hide=html,css,scss" />
-    </a> -->
 </div>
 
-<br><br>
+<br>
 
-# More Skills
-
-<details>
-<summary>Click To Expand</summary>
-<br><br>
+### 🛠️ Additional Skills And Tools
 
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=77C7D9)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=77C7D9)
@@ -77,14 +74,12 @@ I’m a full stack engineer with 5 years of experience.
 ![](https://img.shields.io/badge/Tools-Unicode-informational?style=flat&logo=unicode&logoColor=white&color=194A6A)
 ![](https://img.shields.io/badge/Tools-GoogleDocsAPI-informational?style=flat&logo=googledocs&logoColor=white&color=194A6A)
 ![](https://img.shields.io/badge/Tools-GoogleDriveAPI-informational?style=flat&logo=googledrive&logoColor=white&color=194A6A)
-![](https://img.shields.io/badge/Tools-GoogleDriveAPI-informational?style=flat&logo=googledrive&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-ZSH-informational?style=flat&logo=zsh&logoColor=white&color=194A6A)
+
 
 <br>
-</details>
-<br>
 
-
-Want to know more about me? Check out my links below.
+### 🔗 Links
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=194A6A)](https://www.linkedin.com/in/wesleyscholl/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=6087AB)](https://www.instagram.com/gerard_west/)
