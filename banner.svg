@@ -61,9 +61,9 @@
         @media (prefers-color-scheme: light) {
           .container {
             --color-main: #194a6a;
-            --color-primary: #dddddd;
+            --color-primary: #77c7d9;
             --color-secondary: #316A86;
-            --color-tertiary: #dddddd;
+            --color-tertiary: #72c0d3;
           }
         }
       </style>
