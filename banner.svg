@@ -26,10 +26,10 @@
         }
 
         .container {
-          --color-main: #ef476f;
-          --color-primary: #ffd166;
-          --color-secondary: #06d6a0;
-          --color-tertiary: #118ab2;
+          --color-main: #77c7d9;
+          --color-primary: #6cb8cc;
+          --color-secondary: #5499b0;
+          --color-tertiary: #3d7a94;
 
           background: linear-gradient(
             -45deg,
@@ -60,10 +60,10 @@
 
         @media (prefers-color-scheme: light) {
           .container {
-            --color-main: #ffc8dd;
-            --color-primary: #ffafcc;
-            --color-secondary: #bde0fe;
-            --color-tertiary: #a2d2ff;
+            --color-main: #194a6a;
+            --color-primary: #255a78;
+            --color-secondary: #316a86;
+            --color-tertiary: #4889a2;
           }
         }
       </style>
