@@ -62,7 +62,7 @@
           .container {
             --color-main: #194a6a;
             --color-primary: #ffffff;
-            --color-secondary: #316a86;
+            --color-secondary: #255A78;
             --color-tertiary: #ffffff;
           }
         }
