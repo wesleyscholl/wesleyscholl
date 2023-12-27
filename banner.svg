@@ -27,9 +27,9 @@
 
         .container {
           --color-main: #77c7d9;
-          --color-primary: #6cb8cc;
-          --color-secondary: #5499b0;
-          --color-tertiary: #3d7a94;
+          --color-primary: #194A6A;
+          --color-secondary: #72c0d3;
+          --color-tertiary: #255a78;
 
           background: linear-gradient(
             -45deg,
@@ -61,9 +61,9 @@
         @media (prefers-color-scheme: light) {
           .container {
             --color-main: #194a6a;
-            --color-primary: #255a78;
+            --color-primary: #6cb8cc;
             --color-secondary: #316a86;
-            --color-tertiary: #4889a2;
+            --color-tertiary: #77C7D9;
           }
         }
       </style>
