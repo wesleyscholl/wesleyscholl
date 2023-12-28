@@ -20,17 +20,12 @@ I’m a full stack engineer.
    </div>
    
 <div class="flex-container" align=center><!-- .element: style="display: flex; flex-direction: row;" -->
-  <a href="https://github.com/wesleyscholl">
 <img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=calendar&format=svg&weeks=8&theme=cyan&dark=true" />
-      </a>
-       <a href="https://github.com/wesleyscholl">
-<img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=3dbar&flatten=1&animation=mess&animation_duration=6&animation_loop=true&weeks=8&theme=cyan&format=svg&dark=true" />
-           </a>
 
-   <a href="https://github.com/wesleyscholl">
+<img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=3dbar&flatten=1&animation=mess&animation_duration=6&animation_loop=true&weeks=8&theme=cyan&format=svg&dark=true" />
+
 <img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=3dbar&flatten=1&animation=wave&animation_duration=5&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=8&theme=cyan&format=svg" />
-   </a>
- </div>
+</div>
 
 
 <br>
