@@ -18,13 +18,20 @@ I’m a full stack engineer.
 <div align=center>
 <a href="https://github.com/wesleyscholl"><img alt="Wesley's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&height=250&hide_title=true&radius=5"/></a>
    </div>
-<div align=center>
+   
+<div class="flex-container" align=center><!-- .element: style="display: flex; flex-direction: row;" -->
   <a href="https://github.com/wesleyscholl">
 <img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=calendar&format=svg&weeks=10&theme=cyan&dark=true" />
       </a>
-<img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=3dbar&gap=1&scale=2&flatten=1&animation=mess&animation_duration=4&animation_loop=true&weeks=12&theme=cyan" />
+       <a href="https://github.com/wesleyscholl">
+<img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=3dbar&flatten=1&animation=mess&animation_duration=6&animation_loop=true&weeks=10&theme=cyan&format=svg&dark=true" />
+           </a>
+
+   <a href="https://github.com/wesleyscholl">
+<img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=3dbar&flatten=1&animation=wave&animation_duration=5&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=10&theme=cyan&format=svg" />
+   </a>
  </div>
-</div>
+
 
 <br>
 
@@ -41,7 +48,7 @@ I’m a full stack engineer.
 ![](https://img.shields.io/badge/Code-Web3.JS-informational?style=flat&logo=web3dotjs&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Tools-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Tools-GooglePlay-informational?style=flat&logo=googleplay&logoColor=white&color=6CB8CC)
-  ![](https://img.shields.io/badge/Tools-AppStore-informational?style=flat&logo=appstore&logoColor=white&color=6CB8CC)
+![](https://img.shields.io/badge/Tools-AppStore-informational?style=flat&logo=appstore&logoColor=white&color=6CB8CC)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=6CB8CC)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=6CB8CC)
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=6CB8CC)
@@ -50,10 +57,10 @@ I’m a full stack engineer.
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=60A8BE)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=60A8BE)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=60A8BE)
-  ![](https://img.shields.io/badge/Code-JSON-informational?style=flat&logo=json&logoColor=white&color=5499B0)
-    ![](https://img.shields.io/badge/Tools-XCode-informational?style=flat&logo=xcode&logoColor=white&color=5499B0)
-    ![](https://img.shields.io/badge/Tools-CreateReactApp-informational?style=flat&logo=createreactapp&logoColor=white&color=5499B0)
-    ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=5499B0)
+![](https://img.shields.io/badge/Code-JSON-informational?style=flat&logo=json&logoColor=white&color=5499B0)
+![](https://img.shields.io/badge/Tools-XCode-informational?style=flat&logo=xcode&logoColor=white&color=5499B0)
+![](https://img.shields.io/badge/Tools-CreateReactApp-informational?style=flat&logo=createreactapp&logoColor=white&color=5499B0)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=5499B0)
 ![](https://img.shields.io/badge/Code-.ENV-informational?style=flat&logo=.env&logoColor=white&color=5499B0)
 ![](https://img.shields.io/badge/Tools-AzureDevops-informational?style=flat&logo=azuredevops&logoColor=white&color=4889A2)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4889A2)
@@ -62,7 +69,7 @@ I’m a full stack engineer.
 ![](https://img.shields.io/badge/Tools-MicrosoftAzure-informational?style=flat&logo=microsoftazure&logoColor=white&color=4889A2)
 ![](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=3D7A94)
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=3D7A94)
-  ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=3D7A94)   
+![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=3D7A94)   
 ![](https://img.shields.io/badge/Tools-GoogleBard-informational?style=flat&logo=googlebard&logoColor=white&color=3D7A94) 
 ![](https://img.shields.io/badge/Tools-GoogleAppsScript-informational?style=flat&logo=googleappsscript&logoColor=white&color=3D7A94) 
 ![](https://img.shields.io/badge/Tools-GoogleColab-informational?style=flat&logo=googlecolab&logoColor=white&color=316A86)
