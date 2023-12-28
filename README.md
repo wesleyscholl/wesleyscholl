@@ -22,6 +22,7 @@ I’m a full stack engineer.
   <a href="https://github.com/wesleyscholl">
 <img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=calendar&format=svg&weeks=10&theme=cyan&dark=true" />
       </a>
+<img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=3dbar&gap=1&scale=2&flatten=1&animation=mess&animation_duration=4&animation_loop=true&weeks=12&theme=cyan" />
  </div>
 </div>
 
