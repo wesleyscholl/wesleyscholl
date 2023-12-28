@@ -20,7 +20,7 @@ I’m a full stack engineer.
    </div>
 <div align=center>
   <a href="https://github.com/wesleyscholl">
-<img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=calendar&format=svg&weeks=8&theme=cyan&dark=true" />
+<img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=calendar&format=svg&weeks=12&theme=cyan&dark=true" />
       </a>
  </div>
 </div>
