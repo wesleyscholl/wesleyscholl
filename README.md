@@ -10,7 +10,7 @@ I’m a full stack engineer.
 
 <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
    <div align=center>
-<a href="https://github.com/wesleyscholl"><img src="https://github-readme-stats.vercel.app/api?username=wesleyscholl&show_icons=true&count_private=true&bg_color=20232A&theme=react&card_width=400" alt="Wesley's GitHub Stats" />
+<a href="https://github.com/wesleyscholl"><img src="https://github-readme-stats.vercel.app/api?username=wesleyscholl&show_icons=true&count_private=true&bg_color=20232A&theme=react&card_width=400&rank_icon=github" alt="Wesley's GitHub Stats" />
 </a> <a href="https://github.com/wesleyscholl"><img src="https://github-readme-streak-stats.herokuapp.com?user=wesleyscholl&theme=react&bg_color=20232A&card_width=400" /></a>
       </div>
 </div>
