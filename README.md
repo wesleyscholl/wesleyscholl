@@ -26,8 +26,10 @@ I’m a full stack engineer.
 
 <img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=3dbar&flatten=1&animation=wave&animation_duration=5&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=8&theme=cyan&format=svg" />
 </div>
-
-
+<br>
+<div align=center>
+<a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="600" /></a>
+</div>
 <br>
 
 ### 🛠️ Additional Skills And Tools
@@ -91,6 +93,8 @@ I’m a full stack engineer.
 
 <!--END_SECTION:waka-->
 
+
+[![Wesley's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=wesleyscholl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
