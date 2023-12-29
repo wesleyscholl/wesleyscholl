@@ -158,15 +158,9 @@ Python                   3 repos             █░░░░░░░░░░�
 TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 ```
 
-
-
-
  Last Updated on 29/12/2023 00:20:35 UTC
 
 <!--END_SECTION:waka-->
-
-
-[![Wesley's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=wesleyscholl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
