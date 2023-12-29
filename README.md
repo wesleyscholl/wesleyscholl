@@ -19,7 +19,7 @@ I’m a full stack engineer.
 </div>
 
 <div align=center>
-<a href="https://github.com/wesleyscholl"><img alt="Wesley's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&height=250&hide_title=true&radius=5"/></a>
+<a href="https://github.com/wesleyscholl"><img alt="Wesley's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&height=250&radius=5"/></a>
    </div>
    
 <div class="flex-container" align=center><!-- .element: style="display: flex; flex-direction: row;" -->
