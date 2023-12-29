@@ -86,7 +86,8 @@ I’m a full stack engineer.
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<!--SHOW_SHORT_INFO:waka-->
+<!--START_SECTION:SHOW_COMMIT-->
+<!--END_SECTION:SHOW_SHORT_INFO-->
 
 
 <br>
