@@ -1,7 +1,10 @@
-![](https://github.com/wesleyscholl/wesleyscholl/blob/main/banner.svg) ![Vanilla-10s-280px (1)](https://github.com/wesleyscholl/wesleyscholl/assets/128409641/e5712b1c-243b-4f16-8fbe-a7bec291b98f)
+![](https://github.com/wesleyscholl/wesleyscholl/blob/main/banner.svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=2000&color=61DAFB&center=true&vCenter=true&random=false&width=550&lines=Welcome+to+my+GitHub;I'm+a+Full+Stack+Engineer+)](https://git.io/typing-svg)
 
-<!-- # Hi I'm Wes <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='50' height='50'/>  -->
+<!-- # Hi I'm Wes <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='50' height='50'/> 
+![Vanilla-10s-280px (1)](https://github.com/wesleyscholl/wesleyscholl/assets/128409641/e5712b1c-243b-4f16-8fbe-a7bec291b98f)
 I’m a full stack engineer. 
+-->
+
 
 
 ### 👨🏻‍💻 Skills & Stats
