@@ -84,7 +84,7 @@ I’m a full stack engineer.
 ![](https://img.shields.io/badge/Tools-GoogleDriveAPI-informational?style=flat&logo=googledrive&logoColor=white&color=194A6A)
 ![](https://img.shields.io/badge/Tools-ZSH-informational?style=flat&logo=zsh&logoColor=white&color=194A6A)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
