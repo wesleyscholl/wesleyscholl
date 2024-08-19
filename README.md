@@ -94,6 +94,17 @@ I’m a full stack engineer.
 
 <br>
 
+
+### 🏆 Certifications
+
+| <img src="https://github.com/user-attachments/assets/4903359f-1c9f-44c3-b642-3f21f99f6f5f" width="250" /> | <img src="https://github.com/user-attachments/assets/786a66a5-9184-4455-a0c4-df48041eb840" width="250" /> |
+|:--:|:--:|
+| Certified Argo Project Associate - CAPA | Understanding GitOps with Argo CD |
+
+
+
+<br>
+
 ### 🔗 Links
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=194A6A)](https://www.linkedin.com/in/wesleyscholl/)
