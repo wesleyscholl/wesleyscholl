@@ -97,10 +97,9 @@ I’m a full stack engineer.
 
 ### 🏆 Certifications
 
-| <img src="https://github.com/user-attachments/assets/4903359f-1c9f-44c3-b642-3f21f99f6f5f" width="250" /> | <img src="https://github.com/user-attachments/assets/786a66a5-9184-4455-a0c4-df48041eb840" width="250" /> | <img src="https://github.com/user-attachments/assets/a92b469f-a98d-478a-bf05-9ccf73ae8601" width="250" /> | <img src="https://github.com/user-attachments/assets/fe213d33-9a0f-4a33-b777-57dd330b512f" width="250" /> | <img src="https://github.com/user-attachments/assets/fac4e00d-d17f-4881-adfe-72766c67d73e" width="250" /> | <img src="https://github.com/user-attachments/assets/eb52f0e1-1a0c-4e4a-9fc8-dd81d2dc62f2" width="250" /> |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Certified Argo Project Associate - CAPA | Understanding GitOps with Argo CD | DevOps and Workflow Management with Argo | Apollo Certified GraphQL Developer - Professional | Apollo Certified GraphQL Developer - Associate | Certified CockroachDB Enterprise Application Developer |
-
+| <img src="https://github.com/user-attachments/assets/4903359f-1c9f-44c3-b642-3f21f99f6f5f" width="250" /> | <img src="https://github.com/user-attachments/assets/786a66a5-9184-4455-a0c4-df48041eb840" width="250" /> | <img src="https://github.com/user-attachments/assets/a92b469f-a98d-478a-bf05-9ccf73ae8601" width="250" /> | <img src="https://github.com/user-attachments/assets/fe213d33-9a0f-4a33-b777-57dd330b512f" width="250" /> | <img src="https://github.com/user-attachments/assets/fac4e00d-d17f-4881-adfe-72766c67d73e" width="250" /> | <img src="https://github.com/user-attachments/assets/eb52f0e1-1a0c-4e4a-9fc8-dd81d2dc62f2" width="250" /> | <img src="https://github.com/user-attachments/assets/9b60e8bd-04d9-42f4-93d9-1a65d6f40ec7" width="250" /> |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Certified Argo Project Associate - CAPA | Understanding GitOps with Argo CD | DevOps and Workflow Management with Argo | Apollo Certified GraphQL Developer - Professional | Apollo Certified GraphQL Developer - Associate | Certified CockroachDB Enterprise Application Developer | Microsoft Certified C# Developer |
 
 
 <br>
