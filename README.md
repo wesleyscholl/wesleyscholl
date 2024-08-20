@@ -46,6 +46,7 @@ I’m a full stack engineer.
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Tools-Expo-informational?style=flat&logo=expo&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Code-Web3.JS-informational?style=flat&logo=web3dotjs&logoColor=white&color=72C0D3)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Tools-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Tools-GooglePlay-informational?style=flat&logo=googleplay&logoColor=white&color=6CB8CC)
 ![](https://img.shields.io/badge/Tools-AppStore-informational?style=flat&logo=appstore&logoColor=white&color=6CB8CC)
