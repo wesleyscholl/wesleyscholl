@@ -47,6 +47,8 @@ I’m a full stack engineer.
 ![](https://img.shields.io/badge/Tools-Expo-informational?style=flat&logo=expo&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Code-Web3.JS-informational?style=flat&logo=web3dotjs&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=72C0D3)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=72C0D3)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Tools-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Tools-GooglePlay-informational?style=flat&logo=googleplay&logoColor=white&color=6CB8CC)
 ![](https://img.shields.io/badge/Tools-AppStore-informational?style=flat&logo=appstore&logoColor=white&color=6CB8CC)
@@ -93,6 +95,28 @@ I’m a full stack engineer.
 ![](https://img.shields.io/badge/Tools-Helm-informational?style=flat&logo=helm&logoColor=white&color=194A6A)
 ![](https://img.shields.io/badge/Tools-ArgoCD-informational?style=flat&logo=argo&logoColor=white&color=194A6A)
 ![](https://img.shields.io/badge/Tools-Vim-informational?style=flat&logo=vim&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-UIkit-informational?style=flat&logo=uikit&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-Splunk-informational?style=flat&logo=splunk&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-Replit-informational?style=flat&logo=replit&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-React-Router-informational?style=flat&logo=reactrouter&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-Perplexity-informational?style=flat&logo=perplexity&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-OpenAPI-informational?style=flat&logo=openapiinitiative&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-nvm-informational?style=flat&logo=nvm&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-NuGet-informational?style=flat&logo=nuget&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-ngrok-informational?style=flat&logo=ngrok&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-Mongoose-informational?style=flat&logo=mongoose&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-K3s-informational?style=flat&logo=k3s&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-JSON_Web_Tokens-informational?style=flat&logo=jsonwebtokens&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-iTerm2-informational?style=flat&logo=iterm2&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-Hugging_Face-informational?style=flat&logo=huggingface&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-Homebrew-informational?style=flat&logo=homebrew&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=194A6A)
+
+
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
