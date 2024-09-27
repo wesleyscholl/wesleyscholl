@@ -34,6 +34,8 @@ I’m a full stack engineer.
 <a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="600" /></a>
 </div>
 <br>
+<figure><embed src="https://wakatime.com/share/@wesleyscholl/135dfa3b-179e-493e-b8bd-7b7f2528e0dd.svg"></embed></figure>
+<br>
 
 ### 🛠️ Additional Skills And Tools
 
