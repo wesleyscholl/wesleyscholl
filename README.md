@@ -35,7 +35,9 @@ I’m a full stack engineer.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&height=300&radius=5&title_color=62dafb&text_color=E5E5E5" />
 <!-- <img src="https://wakatime.com/share/@wesleyscholl/4726c96b-2f1c-48cb-9879-7e569bd367fc.svg" height="300" width="400" /> -->
 </div>
-<img src="https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true" />
+<div class="flex-container" align=center>
+<img src="https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues" />
+</div>
 <br>
 
 ### 🛠️ Additional Skills And Tools
@@ -75,7 +77,7 @@ I’m a full stack engineer.
 ![](https://img.shields.io/badge/Tools-MicrosoftAzure-informational?style=flat&logo=microsoftazure&logoColor=white&color=4889A2)
 ![](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=3D7A94)
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=3D7A94)
-![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=3D7A94)   
+![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=3D7A94)
 ![](https://img.shields.io/badge/Tools-GoogleBard-informational?style=flat&logo=googlebard&logoColor=white&color=3D7A94) 
 ![](https://img.shields.io/badge/Tools-GoogleAppsScript-informational?style=flat&logo=googleappsscript&logoColor=white&color=3D7A94) 
 ![](https://img.shields.io/badge/Tools-GoogleColab-informational?style=flat&logo=googlecolab&logoColor=white&color=316A86)
