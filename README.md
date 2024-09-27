@@ -31,8 +31,8 @@ I’m a full stack engineer.
 </div>
 <br>
 <div class="flex-container" align=center>
-<a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="450" height="350" /></a>
-<img src="https://wakatime.com/share/@wesleyscholl/4726c96b-2f1c-48cb-9879-7e569bd367fc.svg" height="350" width="450" />
+<a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="400" height="300" /></a>
+<img src="https://wakatime.com/share/@wesleyscholl/4726c96b-2f1c-48cb-9879-7e569bd367fc.svg" height="300" width="400" />
 </div>
 <br>
 
