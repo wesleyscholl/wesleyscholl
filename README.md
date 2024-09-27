@@ -30,11 +30,10 @@ I’m a full stack engineer.
 <img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=3dbar&flatten=1&animation=wave&animation_duration=5&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=8&theme=cyan&format=svg" />
 </div>
 <br>
-<div align=center>
-<a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="600" /></a>
+<div class="flex-container" align=center>
+<a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="450" height="350" /></a>
+<img src="https://wakatime.com/share/@wesleyscholl/4726c96b-2f1c-48cb-9879-7e569bd367fc.svg" height="350" width="450" />
 </div>
-<br>
-<img src="https://wakatime.com/share/@wesleyscholl/135dfa3b-179e-493e-b8bd-7b7f2528e0dd.svg" />
 <br>
 
 ### 🛠️ Additional Skills And Tools
