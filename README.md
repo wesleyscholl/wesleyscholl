@@ -35,6 +35,7 @@ I’m a full stack engineer.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&height=300&radius=5&title_color=62dafb&text_color=E5E5E5" />
 <!-- <img src="https://wakatime.com/share/@wesleyscholl/4726c96b-2f1c-48cb-9879-7e569bd367fc.svg" height="300" width="400" /> -->
 </div>
+<img src="https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true" />
 <br>
 
 ### 🛠️ Additional Skills And Tools
@@ -119,10 +120,6 @@ I’m a full stack engineer.
 ![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=194A6A)
 
 
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-
 <br>
 
 
@@ -135,8 +132,9 @@ I’m a full stack engineer.
 | <a href="https://university.cockroachlabs.com/certificates/6ae4c188a2db4c5b9f31bed2e4d7be8e">Certified CockroachDB Enterprise Application Developer</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/scientific-computing-with-python-v7">Scientific Computing with Python Developer Certification - FreeCodeCamp</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/foundational-c-sharp-with-microsoft">Microsoft Foundational C# Developer Certification</a> | <a href="https://www.hackerrank.com/certificates/7eaae0d87b4f">React Certified - Hacker Rank</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/responsive-web-design">Responsive Web Design Developer Certification - FreeCodeCamp</a> |
 | <a href="https://www.freecodecamp.org/certification/wesleyscholl/front-end-development-libraries"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/back-end-development-and-apis"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/quality-assurance-v7"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/javascript-algorithms-and-data-structures"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> |  |
 | <a href="https://www.freecodecamp.org/certification/wesleyscholl/front-end-development-libraries">Front End Development Libraries Developer Certification - FreeCodeCamp</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/back-end-development-and-apis">Back End Development and APIs Developer Certification - FreeCodeCamp</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/quality-assurance-v7">Quality Assurance Developer Certification - FreeCodeCamp</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures Developer Certification - FreeCodeCamp</a> |  |
-
-
+<br>
+<!-- my-badges start -->
+<!-- my-badges end -->
 
 <br>
 
