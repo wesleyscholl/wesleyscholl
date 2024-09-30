@@ -21,8 +21,9 @@ jobs:
           pip install requests
 
       - name: Generate unique badge
-        run: |
-          python .github/workflows/generate_badge.py # Path to your Python script
+        run: python .github/workflows/generate_badge.py
+        env:
+          ENV_SECRET: ${{ secrets.GEMINI_API_KEY }} 
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
