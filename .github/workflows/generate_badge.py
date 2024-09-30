@@ -39,7 +39,7 @@ def generate_and_save_badge():
         "inputs": prompt,
     })
 
-    # Check if the response is successful
+    # Await the response
     if res:
         # Save the image - use os to get the current directory
         badge_filename = f"badge_{seed}.png"
