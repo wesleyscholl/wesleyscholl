@@ -32,7 +32,7 @@ I’m a full stack engineer.
 <br>
 <div class="flex-container" align=center>
 <!--    width="400" height="300" -->
-<a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl"  /></a>
+<a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="500" /></a>
    &ensp; &ensp; &ensp;
 <!--    &height=300 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&radius=5&title_color=62dafb&text_color=E5E5E5" />
