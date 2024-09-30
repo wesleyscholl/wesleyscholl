@@ -46,7 +46,9 @@ def generate_and_save_badge():
     response = requests.post(GEMINI_API_URL, json=payload)
 
     if response.status_code == 200:
-        image_url = response.json()["data"][0]["url"]
+        print(response.json())
+        image_url = response.json()["candidates"][0]["content"]["parts"][0]["text"]
+        print(image_url)
 
         # Download and save the image
         badge_filename = f"badge_{seed}.png"
