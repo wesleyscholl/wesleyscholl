@@ -61,7 +61,7 @@ def update_readme(badge_filename):
         readme_content = f.read()
 
     # Find the badges section
-    badges_section_start = readme_content.find("## 🎖️ Badges")
+    badges_section_start = readme_content.find('## 🎖️ Badges \n <div class="flex-container" align=center>')
 
     if badges_section_start == -1:
         print("Badges section not found in README.md")
@@ -72,7 +72,7 @@ def update_readme(badge_filename):
     new_badge_markdown = f"<img src={badge_url} height=256 />\n"
 
     # Find the position to insert the new badge markdown
-    insert_position = readme_content.find("<br><br>", badges_section_start)
+    insert_position = readme_content.find("</div>", badges_section_start)
     if insert_position == -1:
         print("Insert position not found in README.md")
         return
