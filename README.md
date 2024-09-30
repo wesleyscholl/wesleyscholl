@@ -143,10 +143,9 @@ I’m a full stack engineer.
 | <a href="https://www.freecodecamp.org/certification/wesleyscholl/front-end-development-libraries">Front End Development Libraries Developer Certification - FreeCodeCamp</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/back-end-development-and-apis">Back End Development and APIs Developer Certification - FreeCodeCamp</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/quality-assurance-v7">Quality Assurance Developer Certification - FreeCodeCamp</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures Developer Certification - FreeCodeCamp</a> |  |
 <br>
 
-## 🎖️ Badges
+## 🎖️ AI Badges
 
 <div id="badges" class="flex-container" align=center>
-
 
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_5870.png" height="150" />
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_4599.png" height="150" />
