@@ -21,8 +21,8 @@ def generate_badge_prompt(seed):
     A digital badge with a coding, technology, or software theme. 
     Incorporate elements like code snippets, circuit boards, or abstract shapes.
     Use a color scheme primarily from these hex codes: {COLOR_PALETTE}.
-    Ensure a high-resolution and visually appealing design.
-    Seed: {seed} # Use the seed for variation
+    Ensure a high-resolution and visually appealing design. Send back the url to 
+    the newly created image. Seed: {seed} Image size: 256x256
     """
 
 # --- Badge Generation Logic ---
@@ -32,11 +32,14 @@ def generate_and_save_badge():
     
     prompt = generate_badge_prompt(seed)
 
-    # Prepare Gemini API payload (adjust as needed)
+    # Prepare Gemini API payload
     payload = {
-        "prompt": prompt,
-        "n": 1,   # Number of images to generate
-        "size": "256x256" # Example image size
+        "contents":[{"parts":[{"text": prompt}]}],
+        "safetySettings": [{"category": "HARM_CATEGORY_DANGEROUS_CONTENT","threshold": "BLOCK_NONE"}],
+    	"generationConfig": {
+    		"temperature": 0.2,
+    		"maxOutputTokens": 50
+    	}
     }
     
     # Make API request to Gemini
