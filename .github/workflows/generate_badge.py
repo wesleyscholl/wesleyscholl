@@ -71,23 +71,26 @@ def update_readme(badge_filename):
     badge_url = f"https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/{badge_filename}"  
     new_badge_markdown = f"<img src={badge_url} height=256 />\n"
 
-    # Insert after this line
-    # ## ## 🎖️ Badges\n
-    # <div class="flex-container" align=center>
-    # <Add badge here>
-    # </div>
+    # Find the position to insert the new badge markdown
+    insert_position = readme_content.find("<br><br>", badges_section_start)
+    if insert_position == -1:
+        print("Insert position not found in README.md")
+        return
 
-    # Insert the new badge markdown after the badges section
+    # Insert the new badge markdown after the insert position
     readme_content = (
-        readme_content[:badges_section_start]
-        + "## 🎖️ Badges\n"
+        readme_content[:insert_position]
         + new_badge_markdown
-        + readme_content[badges_section_start:]
+        + readme_content[insert_position:]
     )
+
+    print("Updating README.md with new badge")
+    print(readme_content)
 
     with open("README.md", "w") as f:
         f.write(readme_content)
 
+# --- Main --- 
 if __name__ == "__main__":
     badge_filename = generate_and_save_badge()
     if badge_filename:
