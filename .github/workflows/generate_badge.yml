@@ -23,7 +23,7 @@ jobs:
       - name: Generate unique badge
         run: python .github/workflows/generate_badge.py
         env:
-          ENV_SECRET: ${{ secrets.GEMINI_API_KEY }} 
+          ENV_SECRET: ${{ secrets.HF_TOKEN }} 
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
