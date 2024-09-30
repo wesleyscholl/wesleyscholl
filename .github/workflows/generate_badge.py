@@ -41,7 +41,7 @@ def generate_and_save_badge():
 
     # Await the response
     if res:
-        # Save the image - write the image to a file
+        # Save the image - create new file and write the image to a file
         badge_filename = f"badge_{seed}.png"
         with open(f"badges/{badge_filename}", "wb") as f:
             f.write(res.content)
