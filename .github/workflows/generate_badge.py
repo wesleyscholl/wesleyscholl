@@ -41,9 +41,9 @@ def generate_and_save_badge():
 
     # Await the response
     if res:
-        # Save the image - use os to get the current directory
+        # Save the image - write the image to a file
         badge_filename = f"badge_{seed}.png"
-        with open(os.path.join(os.getcwd(), "badges", badge_filename), "wb") as f:
+        with open(f"badges/{badge_filename}", "wb") as f:
             f.write(res.content)
 
         print(f"Badge saved as {badge_filename}")
