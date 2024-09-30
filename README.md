@@ -141,6 +141,7 @@
 
 <div id="badges" class="flex-container" align=center>
 
+<img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_1234.png" height="150" />
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_963.png" height="150" />
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_3599.png" height="150" />
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_4887.png" height="150" />
