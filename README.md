@@ -141,6 +141,7 @@ I’m a full stack engineer.
 <div id="badges" class="flex-container" align=center>
 
 
+<img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_5870.png" height="150" />
 </div>
 
 ### 🔗 Links
