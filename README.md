@@ -1,11 +1,5 @@
 <img src="https://github.com/wesleyscholl/wesleyscholl/blob/main/banner.svg" width="275" /> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=61DAFB&center=true&vCenter=true&random=false&width=550&height=35&letterSpacing=-1px&lines=Welcome+to+my+GitHub!;I'm+a+US+Marine-turned-coder+🪖;I'm+passionate+about+automation,;Learning+about+new+technologies...;and+building+killer+apps+💻;Some+people+call+me:;A+problem-solving+machine,;An+avid+musician+🎸,;and+a+coding+Rock+Star+👨🏻‍💻;Currently+building+the+future...;+at+Total+Wine+%26+More+🍷;Let's+build+something...👷🏻‍♂️;amazing+together,;and+maybe+jam+out+after!+🎶;)](https://git.io/typing-svg)
 
-<!-- # Hi I'm Wes <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='50' height='50'/> 
-![Vanilla-10s-280px (1)](https://github.com/wesleyscholl/wesleyscholl/assets/128409641/e5712b1c-243b-4f16-8fbe-a7bec291b98f)
-I’m a full stack engineer. 
--->
-
-
 
 ### 👨🏻‍💻 Skills & Stats
 
@@ -31,15 +25,13 @@ I’m a full stack engineer.
 </div>
 <br>
 <div class="flex-container" align=center>
-<!--    width="400" height="300" -->
-   <div class="flex-container" align=top>
-<a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="500" /></a>
-      &ensp; &ensp; &ensp;
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&radius=5&title_color=62dafb&text_color=E5E5E5" />
-      </div>
-   
-<!--    &height=300 -->
 
+<div class="flex-container" align=top>
+   <a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="500" /></a>
+   &ensp; &ensp; &ensp;
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&radius=5&title_color=62dafb&text_color=E5E5E5" />
+</div>
+   
 <!-- <img src="https://wakatime.com/share/@wesleyscholl/4726c96b-2f1c-48cb-9879-7e569bd367fc.svg" height="300" width="400" /> -->
 </div>
 <div class="flex-container" align=center>
