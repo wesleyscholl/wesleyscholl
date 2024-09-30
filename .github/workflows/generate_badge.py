@@ -1,13 +1,11 @@
 import requests
 import random
 import os
+import io
+from PIL import Image
 
-# Get Gemini API key from environment variable
-GEMINI_API_KEY = os.environ.get("ENV_SECRET")
-print(GEMINI_API_KEY)
-
-# Gemini API endpoint
-GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={GEMINI_API_KEY}" 
+API_URL = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-dev"
+headers = {"Authorization": "Bearer hf_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}
 
 # Your color palette
 COLOR_PALETTE = [
@@ -19,7 +17,7 @@ COLOR_PALETTE = [
 def generate_badge_prompt(seed):
     return f"""
     A digital badge with a coding, technology, or software theme. 
-    Incorporate elements like code snippets, circuit boards, or abstract shapes.
+    Incorporate elements like code snippets, circuit boards, computers, keyboards, or abstract shapes.
     Use a color scheme primarily from these hex codes: {COLOR_PALETTE}.
     Ensure a high-resolution and visually appealing design. Send back the url to 
     the newly created image. Seed: {seed} Image size: 256x256
@@ -31,35 +29,27 @@ def generate_and_save_badge():
     seed = random.randint(1, 10000)
     
     prompt = generate_badge_prompt(seed)
-
-    # Prepare Gemini API payload
-    payload = {
-        "contents":[{"parts":[{"text": prompt}]}],
-        "safetySettings": [{"category": "HARM_CATEGORY_DANGEROUS_CONTENT","threshold": "BLOCK_NONE"}],
-    	"generationConfig": {
-    		"temperature": 0.2,
-    		"maxOutputTokens": 50
-    	}
-    }
     
-    # Make API request to Gemini
-    response = requests.post(GEMINI_API_URL, json=payload)
+    # Make API request to HF Inference API
+    def query(payload):
+        response = requests.post(API_URL, headers=headers, json=payload)
+        return response.content
 
-    if response.status_code == 200:
-        print(response.json())
-        image_url = response.json()["candidates"][0]["content"]["parts"][0]["text"]
-        print(image_url)
+    # Call the API to generate the badge
+    res = query({
+        "inputs": prompt,
+    })
 
-        # Download and save the image
+    # Check if the response is successful
+    if res.status_code == 200:
+
+        image = Image.open(io.BytesIO(res))
         badge_filename = f"badge_{seed}.png"
-        badge_path = os.path.join("badges", badge_filename)
-
-        with open(badge_path, "wb") as f:
-            f.write(requests.get(image_url).content)
-
+        image.save(f"badges/{badge_filename}")
+        print(f"Badge saved as {badge_filename}")
         return badge_filename
     else:
-        print(f"Error generating badge: {response.text}")
+        print(f"Error generating badge: {res.text}")
         return None
 
 # --- Update README.md ---
