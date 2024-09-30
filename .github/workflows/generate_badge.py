@@ -38,14 +38,9 @@ def generate_and_save_badge():
         "n": 1,   # Number of images to generate
         "size": "256x256" # Example image size
     }
-
-    # Prepare headers
-    headers = {
-        "Authorization": f"Bearer {GEMINI_API_KEY}" 
-    }
     
     # Make API request to Gemini
-    response = requests.post(GEMINI_API_URL, json=payload, headers=headers)
+    response = requests.post(GEMINI_API_URL, json=payload)
 
     if response.status_code == 200:
         image_url = response.json()["data"][0]["url"]
