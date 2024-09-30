@@ -31,9 +31,11 @@ I’m a full stack engineer.
 </div>
 <br>
 <div class="flex-container" align=center>
-<a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="400" height="300" /></a>
+<!--    width="400" height="300" -->
+<a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl"  /></a>
    &ensp; &ensp; &ensp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&height=300&radius=5&title_color=62dafb&text_color=E5E5E5" />
+<!--    &height=300 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&radius=5&title_color=62dafb&text_color=E5E5E5" />
 <!-- <img src="https://wakatime.com/share/@wesleyscholl/4726c96b-2f1c-48cb-9879-7e569bd367fc.svg" height="300" width="400" /> -->
 </div>
 <div class="flex-container" align=center>
