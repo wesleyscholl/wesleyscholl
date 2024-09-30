@@ -3,7 +3,7 @@ import random
 import os
 
 # Get Gemini API key from environment variable
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+GEMINI_API_KEY = os.environ.get("ENV_SECRET")
 print(GEMINI_API_KEY)
 
 # Gemini API endpoint
