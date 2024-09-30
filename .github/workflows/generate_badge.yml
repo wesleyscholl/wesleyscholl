@@ -32,4 +32,3 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update badge"
-          file_pattern: badges/* README.md
