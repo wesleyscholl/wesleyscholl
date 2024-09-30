@@ -3,7 +3,7 @@ import random
 import os
 
 # Gemini API endpoint
-GEMINI_API_URL = "https://api.gemini.com/v1/images/generate" 
+GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={GEMINI_API_KEY}" 
 
 # Your color palette
 COLOR_PALETTE = [
