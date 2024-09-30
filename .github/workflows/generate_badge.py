@@ -40,8 +40,7 @@ def generate_and_save_badge():
     })
 
     # Check if the response is successful
-    if res.status_code == 200:
-
+    if res:
         # Save the image - use os to get the current directory
         badge_filename = f"badge_{seed}.png"
         with open(os.path.join(os.getcwd(), "badges", badge_filename), "wb") as f:
