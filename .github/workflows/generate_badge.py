@@ -61,7 +61,7 @@ def update_readme(badge_filename):
         readme_content = f.read()
 
     # Find the badges section
-    badges_section_start = readme_content.find('## 🎖️ Badges \n <div class="flex-container" align=center>')
+    badges_section_start = readme_content.find('<div id="badges" class="flex-container" align=center>')
 
     if badges_section_start == -1:
         print("Badges section not found in README.md")

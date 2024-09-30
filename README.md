@@ -138,9 +138,10 @@ I’m a full stack engineer.
 
 ## 🎖️ Badges
 
-<br>
+<div id="badges" class="flex-container" align=center>
 
 
+</div>
 
 ### 🔗 Links
 
