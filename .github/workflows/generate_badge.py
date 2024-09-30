@@ -2,6 +2,9 @@ import requests
 import random
 import os
 
+# Get Gemini API key from environment variable
+GEMINI_API_KEY = os.environ.get("ENV_SECRET")
+
 # Gemini API endpoint
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={GEMINI_API_KEY}" 
 
@@ -35,8 +38,13 @@ def generate_and_save_badge():
         "size": "256x256" # Example image size
     }
 
+    # Prepare headers
+    headers = {
+        "Authorization": f"Bearer {GEMINI_API_KEY}" 
+    }
+    
     # Make API request to Gemini
-    response = requests.post(GEMINI_API_URL, json=payload)
+    response = requests.post(GEMINI_API_URL, json=payload, headers=headers)
 
     if response.status_code == 200:
         image_url = response.json()["data"][0]["url"]
