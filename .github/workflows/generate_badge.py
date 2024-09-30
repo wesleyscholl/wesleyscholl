@@ -19,10 +19,9 @@ COLOR_PALETTE = [
 def generate_badge_prompt(seed):
     return f"""
     A digital badge with a coding, technology, or software theme. 
-    Incorporate elements like code snippets, circuit boards, computers, keyboards, or abstract shapes.
-    Use a color scheme primarily from these hex codes: {COLOR_PALETTE}.
-    Ensure a high-resolution and visually appealing design. Send back the url to 
-    the newly created image. Seed: {seed} Image size: 256x256
+    Incorporate elements like code snippets, circuit boards, computers, servers, cloud, database, keyboards, code syntax, abstract shapes.
+    Use a color scheme primarily from these hex codes: {COLOR_PALETTE}. Don't include any text in the badge and ensure the background of the image is transparent.
+    Ensure a high quality and visually appealing design. Seed: {seed} Image size: 256x256
     """
 
 # --- Badge Generation Logic ---
@@ -70,12 +69,18 @@ def update_readme(badge_filename):
 
     # Create the new badge markdown
     badge_url = f"https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/{badge_filename}"  
-    new_badge_markdown = f"![Badge]({badge_url})\n"
+    new_badge_markdown = f"<img src={badge_url} height=256 />\n"
+
+    # Insert after this line
+    # ## ## 🎖️ Badges\n
+    # <div class="flex-container" align=center>
+    # <Add badge here>
+    # </div>
 
     # Insert the new badge markdown after the badges section
     readme_content = (
         readme_content[:badges_section_start]
-        + "## Badges\n"
+        + "## 🎖️ Badges\n"
         + new_badge_markdown
         + readme_content[badges_section_start:]
     )
