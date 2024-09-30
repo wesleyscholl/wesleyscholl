@@ -69,7 +69,7 @@ def update_readme(badge_filename):
 
     # Create the new badge markdown
     badge_url = f"https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/{badge_filename}"  
-    new_badge_markdown = f"<img src={badge_url} height=256 />\n"
+    new_badge_markdown = f'<img src="{badge_url}" height="150" />\n'
 
     # Find the position to insert the new badge markdown
     insert_position = readme_content.find("</div>", badges_section_start)
