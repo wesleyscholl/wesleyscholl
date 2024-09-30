@@ -3,8 +3,11 @@ import random
 import os
 import io
 
+# Get the HF Inference API token from the environment
+API_TOKEN = os.environ.get("ENV_SECRET")
+
 API_URL = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-dev"
-headers = {"Authorization": "Bearer hf_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}
+headers = {"Authorization": "Bearer {API_TOKEN}"}
 
 # Your color palette
 COLOR_PALETTE = [
