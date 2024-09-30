@@ -141,6 +141,10 @@
 
 <div id="badges" class="flex-container" align=center>
 
+<img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_963.png" height="150" />
+<img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_3599.png" height="150" />
+<img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_4887.png" height="150" />
+<img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_9473.png" height="150" />
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_5870.png" height="150" />
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_4599.png" height="150" />
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_2813.png" height="150" />
