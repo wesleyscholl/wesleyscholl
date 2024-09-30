@@ -1,9 +1,7 @@
 name: Generate Badge
 
 on: 
-  workflow_dispatch: # Allows manual triggering
-  # schedule:  # Optional: Run on a schedule (e.g., weekly)
-    # - cron: '0 0 * * 0' # Every Sunday at midnight UTC
+  workflow_dispatch:
 
 jobs:
   generate_badge:
