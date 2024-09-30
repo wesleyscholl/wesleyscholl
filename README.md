@@ -40,7 +40,7 @@
 <br>
 
 <div class="flex-container" align=center>
-<a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/8b9b9f2d-6419-4760-b5cd-e1a0608064da" width="80"></a>
+<a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/8b9b9f2d-6419-4760-b5cd-e1a0608064da" width="100"></a>
 </div>
 
 ### 🛠️ Additional Skills And Tools
@@ -124,8 +124,6 @@
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=194A6A)
 ![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=194A6A)
 
-
-<br>
 
 
 ### 🏆 Certifications
