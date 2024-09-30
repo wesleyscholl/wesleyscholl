@@ -2,7 +2,6 @@ import requests
 import random
 import os
 import io
-from PIL import Image
 
 API_URL = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-dev"
 headers = {"Authorization": "Bearer hf_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"}
@@ -43,9 +42,11 @@ def generate_and_save_badge():
     # Check if the response is successful
     if res.status_code == 200:
 
-        image = Image.open(io.BytesIO(res))
+        # Save the image - use os to get the current directory
         badge_filename = f"badge_{seed}.png"
-        image.save(f"badges/{badge_filename}")
+        with open(os.path.join(os.getcwd(), "badges", badge_filename), "wb") as f:
+            f.write(res.content)
+
         print(f"Badge saved as {badge_filename}")
         return badge_filename
     else:
