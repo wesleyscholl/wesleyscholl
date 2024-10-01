@@ -151,6 +151,7 @@
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_2813.png" height="150" />
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_9497.png" height="150" />
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_2236.png" height="150" />
+<img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_8968.png" height="150" />
 </div>
 
 ### 🔗 Links
