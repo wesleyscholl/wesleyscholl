@@ -124,7 +124,9 @@
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=194A6A)
 ![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=194A6A)
 
-
+<div class="flex-container" align=center>
+   <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/4ec13214-0ca1-41f0-8999-351369beda0a" width="100" /></a>
+</div>
 
 ### 🏆 Certifications
 
@@ -136,6 +138,13 @@
 | <a href="https://www.freecodecamp.org/certification/wesleyscholl/front-end-development-libraries"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/back-end-development-and-apis"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/quality-assurance-v7"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/javascript-algorithms-and-data-structures"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> |  |
 | <a href="https://www.freecodecamp.org/certification/wesleyscholl/front-end-development-libraries">Front End Development Libraries Developer Certification - FreeCodeCamp</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/back-end-development-and-apis">Back End Development and APIs Developer Certification - FreeCodeCamp</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/quality-assurance-v7">Quality Assurance Developer Certification - FreeCodeCamp</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures Developer Certification - FreeCodeCamp</a> |  |
 <br>
+
+<div class="flex-container" align=center>
+<a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/8b9b9f2d-6419-4760-b5cd-e1a0608064da" width="100"></a>
+</div>
+
+
+
 
 ## 🎖️ AI Badges
 
@@ -156,12 +165,17 @@
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_4852.png" height="100" />
 </div>
 
+<div class="flex-container" align=center>
+   <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/4ec13214-0ca1-41f0-8999-351369beda0a" width="100" /></a>
+</div>
+
 ### 🔗 Links
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=194A6A)](https://www.linkedin.com/in/wesleyscholl/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=6087AB)](https://www.instagram.com/gerard_west/)
 <img src="https://komarev.com/ghpvc/?username=wesleyscholl&label=Profile%20views&color=77C7D9" alt="wesleyscholl" />
 <br><br> 
+
 
 
 
