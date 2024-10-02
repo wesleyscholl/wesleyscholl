@@ -31,10 +31,14 @@
    &ensp; &ensp; &ensp;
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&radius=5&title_color=62dafb&text_color=E5E5E5" />
 </div>
-   
+   <br>
 <!-- <img src="https://wakatime.com/share/@wesleyscholl/4726c96b-2f1c-48cb-9879-7e569bd367fc.svg" height="300" width="400" /> -->
-</div>
 <div class="flex-container" align=center>
+<img src="/metrics.plugin.achievements.compact.svg" alt="Metrics" width="70%">
+</div>
+
+</div>
+<div class="flex-container" align=right>
 <img src="https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues" />
 </div>
 <br>
