@@ -38,13 +38,12 @@
 </div>
 
 </div>
-<div class="flex-container" align=right>
-<img src="https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues" />
+<div class="flex-container" align=center>
+<img src="https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues" width="90%" />
 </div>
 <br>
 
 <div class="flex-container" align=center>
-   <img src="" width="25%">
 <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/8b9b9f2d-6419-4760-b5cd-e1a0608064da" width="100"></a>
 </div>
 
