@@ -44,7 +44,7 @@
 <br>
 
 <div class="flex-container" align=center>
-<a href="https://github.com/wesleyscholl"><div class="flex-container" align=center><img align="center" src="https://github.com/user-attachments/assets/8b9b9f2d-6419-4760-b5cd-e1a0608064da" width="100"></div></a>
+<a href="https://github.com/wesleyscholl"><div class="flex-container" align=center width="50"><img align="center" src="https://github.com/user-attachments/assets/8b9b9f2d-6419-4760-b5cd-e1a0608064da" width="100"></div></a>
 </div>
 
 ### 🛠️ Additional Skills And Tools
