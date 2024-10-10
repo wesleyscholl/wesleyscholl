@@ -39,8 +39,9 @@
 
 </div>
 <div class="flex-container" align=right>
-<img src="https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues" />
+<img src="https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true" />
 </div>
+<!-- &title=Stars,Followers,MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues -->
 <br>
 
 <div class="flex-container" align=center>
