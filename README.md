@@ -27,7 +27,7 @@
 <div class="flex-container" align=center>
 
 <div class="flex-container" align=top>
-   <a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="500" /></a>
+<!--    <a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="500" /></a> -->
    &ensp; &ensp; &ensp;
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&radius=5&title_color=62dafb&text_color=E5E5E5" />
 </div>
@@ -163,10 +163,9 @@
 
 
 
-## 🎖️ AI Badges
+## 🎖️ AI Generated Badges
 
 <div id="badges" class="flex-container" align=center>
-
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_1234.png" height="100" />
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_963.png" height="100" />
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_3599.png" height="100" />
@@ -185,6 +184,7 @@
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_1694.png" height="100" />
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_5933.png" height="100" />
 </div>
+<br>
 
 <div class="flex-container" align=center>
    <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/4ec13214-0ca1-41f0-8999-351369beda0a" width="100" /></a>
