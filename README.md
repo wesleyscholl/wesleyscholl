@@ -147,14 +147,13 @@
 | <a href="https://www.cloudskillsboost.google/public_profiles/3defb66c-8ba8-4072-8ec7-8f7bc9bf7801">Professional Machine Learning Engineer Study Guide Badge - Google Cloud</a> | <a href="https://www.cloudskillsboost.google/public_profiles/3defb66c-8ba8-4072-8ec7-8f7bc9bf7801">Attention Mechanism Badge - Google Cloud</a> | <a href="https://www.cloudskillsboost.google/public_profiles/3defb66c-8ba8-4072-8ec7-8f7bc9bf7801">Encoder-Decoder Architecture Badge - Google Cloud</a> | <a href="https://www.cloudskillsboost.google/public_profiles/3defb66c-8ba8-4072-8ec7-8f7bc9bf7801">Introduction to Image Generation Badge - Google Cloud</a> | <a href="https://www.cloudskillsboost.google/public_profiles/3defb66c-8ba8-4072-8ec7-8f7bc9bf7801">Machine Learning Operations (MLOps) for Generative AI Badge - Google Cloud</a> |
 | <a href="https://github.com/user-attachments/assets/422c2c44-5e10-4450-8f64-9cd99c05b7e4"><img src="https://github.com/user-attachments/assets/422c2c44-5e10-4450-8f64-9cd99c05b7e4" width="250" /></a> | <a href="https://github.com/user-attachments/assets/4f99faf9-ec05-41fc-af9c-c07282e16a60"><img src="https://github.com/user-attachments/assets/4f99faf9-ec05-41fc-af9c-c07282e16a60" width="250" /></a> | | | |
 | <a href="https://github.com/user-attachments/assets/422c2c44-5e10-4450-8f64-9cd99c05b7e4">AWS Foundations: Machine Learning</a> | <a href="https://github.com/user-attachments/assets/4f99faf9-ec05-41fc-af9c-c07282e16a60">Essentials of Prompt Engineering - AWS</a> | | | |
-| <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/FVGEJVFX?sharingId=F343043E939729E2"><img src="https://github.com/user-attachments/assets/61d1c254-c5c8-4eb0-b72c-278c56cebfff" width="250" /></a> | | | | |
-| <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/FVGEJVFX?sharingId=F343043E939729E2">Microsoft Azure Fundamentals: Cloud Concepts</a> | | | | |
+| <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/FVGEJVFX?sharingId=F343043E939729E2"><img src="https://github.com/user-attachments/assets/61d1c254-c5c8-4eb0-b72c-278c56cebfff" width="250" /></a> |  <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/WAJJHT3N?sharingId=F343043E939729E2"><img src="https://github.com/user-attachments/assets/8cba72d6-4f9b-48b2-9553-eee6be573586" width="250" /></a> | | | |
+| <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/FVGEJVFX?sharingId=F343043E939729E2">Microsoft Azure Fundamentals: Cloud Concepts</a> | <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/WAJJHT3N?sharingId=F343043E939729E2">Code Using C# - Microsoft</a> | | | |
 <br>
 
 <div class="flex-container" align=center>
 <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/8b9b9f2d-6419-4760-b5cd-e1a0608064da" width="100"></a>
 </div>
-
 
 
 
