@@ -29,7 +29,7 @@
 <div class="flex-container" align=top>
 <!--    <a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="500" /></a> -->
    &ensp; &ensp; &ensp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&radius=5&title_color=62dafb&text_color=E5E5E5&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&radius=5&title_color=62dafb&text_color=E5E5E5&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&hide_border=true" />
 </div>
    <br>
 <!-- <img src="https://wakatime.com/share/@wesleyscholl/4726c96b-2f1c-48cb-9879-7e569bd367fc.svg" height="300" width="400" /> -->
