@@ -34,12 +34,12 @@
    <br>
 <!-- <img src="https://wakatime.com/share/@wesleyscholl/4726c96b-2f1c-48cb-9879-7e569bd367fc.svg" height="300" width="400" /> -->
 <div class="flex-container" align=center>
-<img src="/metrics.plugin.achievements.compact.svg" alt="Metrics" width="70%">
+<img src="/metrics.plugin.achievements.compact.svg" alt="Metrics" width="100%">
 </div>
 
 </div>
 <div class="flex-container" align=center>
-<img src="https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues" width="80%" height="100" />
+<img src="https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues" width="100%" height="100" />
 </div>
 <br>
 
