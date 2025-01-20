@@ -2,8 +2,8 @@
 
 
 ### 👨🏻‍💻 Skills & Stats 
+![](https://img.shields.io/badge/Workflows-Argo-informational?style=flat&logo=argo&logoColor=white&color=194A6A) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=194A6A) ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=254A6A) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=254A6A) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=35607E) ![](https://img.shields.io/badge/Code-ShellScript-informational?style=flat&logo=gnubash&logoColor=white&color=35607E) ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=40607E) ![](https://img.shields.io/badge/Code-ApolloGraphQL-informational?style=flat&logo=apollographql&logoColor=white&color=40607E) ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=4887AB) ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=4887AB) ![](https://img.shields.io/badge/Code-CockroachDB-informational?style=flat&logo=cockroachlabs&logoColor=white&color=6087AB) ![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=nodedotjs&logoColor=white&color=6087AB) ![](https://img.shields.io/badge/Code-YAML-informational?style=flat&logo=yaml&logoColor=white&color=7487AB) ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&logoColor=white&color=7487AB) ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=77C7D9) ![](https://img.shields.io/badge/Workflows-GitHub-informational?style=flat&logo=github&logoColor=white&color=77C7D9)
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=194A6A) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=194A6A) ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=254A6A) ![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=nodedotjs&logoColor=white&color=254A6A) ![](https://img.shields.io/badge/Workflows-Argo-informational?style=flat&logo=argo&logoColor=white&color=35607E) ![](https://img.shields.io/badge/Workflows-GitHub-informational?style=flat&logo=github&logoColor=white&color=35607E) ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=40607E) ![](https://img.shields.io/badge/Code-ApolloGraphQL-informational?style=flat&logo=apollographql&logoColor=white&color=40607E) ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=4887AB) ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=4887AB) ![](https://img.shields.io/badge/Code-CockroachDB-informational?style=flat&logo=cockroachlabs&logoColor=white&color=6087AB) ![](https://img.shields.io/badge/Code-Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=6087AB) ![](https://img.shields.io/badge/Code-YAML-informational?style=flat&logo=yaml&logoColor=white&color=7487AB) ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&logoColor=white&color=7487AB) ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=77C7D9) ![](https://img.shields.io/badge/Code-ShellScript-informational?style=flat&logo=gnubash&logoColor=white&color=77C7D9)
 
 <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
    <div align=center>
@@ -28,18 +28,25 @@
 
 <div class="flex-container" align=top>
 <!--    <a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="500" /></a> -->
-   &ensp; &ensp; &ensp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&radius=5&title_color=62dafb&text_color=E5E5E5&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&hide_border=true" />
+
+<!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&radius=5&title_color=62dafb&text_color=E5E5E5&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact" /> -->
+
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleyscholl&theme=react" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleyscholl&theme=react" />
+   
 </div>
-   <br>
+<div class="flex-container" align=center>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleyscholl&theme=react" />
+   </div>
+   <br><br>
 <!-- <img src="https://wakatime.com/share/@wesleyscholl/4726c96b-2f1c-48cb-9879-7e569bd367fc.svg" height="300" width="400" /> -->
 <div class="flex-container" align=center>
-<img src="/metrics.plugin.achievements.compact.svg" alt="Metrics" width="100%">
+<img src="/metrics.plugin.achievements.compact.svg" alt="Metrics" width="70%">
 </div>
 
 </div>
 <div class="flex-container" align=center>
-<img src="https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues" width="100%" height="100" />
+<img src="https://github-profile-trophy.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues" width="80%" height="100" />
 </div>
 <br>
 
@@ -56,10 +63,10 @@
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=77C7D9)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=72C0D3)
+![](https://img.shields.io/badge/Code-Cucumber-informational?style=flat&logo=cucumber&logoColor=white&color=72C0D3) 
 ![](https://img.shields.io/badge/Tools-Expo-informational?style=flat&logo=expo&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Code-Web3.JS-informational?style=flat&logo=web3dotjs&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=72C0D3)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Tools-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=72C0D3)
 ![](https://img.shields.io/badge/Tools-GooglePlay-informational?style=flat&logo=googleplay&logoColor=white&color=6CB8CC)
@@ -153,8 +160,8 @@
 | <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/FZ6B6NTX?sharingId=F343043E939729E2">Variable Data in C# - Microsoft</a> | <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/AQ35XLE7?sharingId=F343043E939729E2">C# Console Application Methods - Microsoft</a> | <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/HAT2TM38?sharingId=F343043E939729E2">Fundamental AI Concepts - Microsoft</a> | <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/KGYNTUWB?sharingId=F343043E939729E2">Introduction to Kubernetes - Microsoft</a> | <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/8R5KF3JW?sharingId=F343043E939729E2">Visual Studio Code Debugging Tools for C# - Microsoft</a> |
 | <a href="https://learn.microsoft.com/en-us/users/wesleyscholl-0605/achievements/esxgrhwp"><img src="https://github.com/user-attachments/assets/146949b1-d739-464e-832e-502783cfd77e" width="250" /></a> | <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/N2LKJ6WF?sharingId=F343043E939729E2"><img src="https://github.com/user-attachments/assets/45ff7da0-957b-44d8-a80e-d0da701190d2" width="250" /></a> | <a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/linear-regression"><img src="https://github.com/user-attachments/assets/b2a005f2-2eaa-4c4e-bda1-096ac80d2843" width="250" /></a> | <a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/logistic-regression"><img src="https://github.com/user-attachments/assets/ecadcbda-22f3-4948-aef9-642804797e9d" width="250" /></a> | <a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/classification"><img src="https://github.com/user-attachments/assets/1fa87085-be1c-4778-8542-c89e0b1c8c8a" width="250" /></a> | 
 | <a href="https://learn.microsoft.com/en-us/users/wesleyscholl-0605/achievements/esxgrhwp">Fundamentals of Machine Learning - Microsoft</a> | <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/N2LKJ6WF?sharingId=F343043E939729E2">Microsoft Azure AI Fundamentals</a> | <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Linear Regression - Google</a> | <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Logistic Regression - Google</a> | <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Classification - Google</a> |
-| <a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/numerical-data"><img src="https://github.com/user-attachments/assets/cc1ccc73-55e9-407a-b7f7-659c2c706456" width="250" /></a>  | | | | |
-| <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Numerical Data - Google</a> | | | | |
+| <a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/numerical-data"><img src="https://github.com/user-attachments/assets/cc1ccc73-55e9-407a-b7f7-659c2c706456" width="250" /></a> | <a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/categorical-data"><img src="https://github.com/user-attachments/assets/08b002ff-d072-4df5-ab44-ea11075e70ef" width="250" /></a> | | | |
+| <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Numerical Data - Google</a> | <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Categorical Data - Google</a> | | | |
 <br>
 
 <div class="flex-container" align=center>
