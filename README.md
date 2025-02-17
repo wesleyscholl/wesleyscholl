@@ -152,7 +152,7 @@
 | <a href="https://www.credly.com/badges/e7971c8d-caef-45bf-9d64-8a1d171eda70/public_url">CompTIA A+ Certification - CompTIA</a> | <a href="https://www.credly.com/badges/f6bc4a20-5f2b-4e1b-8cc1-1062dba47a6b/public_url">Prompt Engineering Foundation Learner - Certiprof</a> | <a href="https://openbadgefactory.com/v1/assertion/f7bfa1b02680af141c45bfd78cd060f8cd819981">Machine Learning and Data Science Applications & Use Cases Professional - Altair</a> | <a href="https://credentials.databricks.com/4b044a04-0904-4747-9019-2ca9cfc9990b#acc.XmE28Cge">Generative AI Security Fundamentals - Databricks</a> |
 
 
-
+### 🏅 Addtional Certifications, Training and Badges
 
 <details>
   <summary>Google</summary>
