@@ -289,9 +289,9 @@
 <details>
   <summary>More SAP</summary>
    
-| <a href="https://www.credly.com/badges/f690899e-1c45-4ff8-b35e-e011bd30d801/public_url"><img src="https://github.com/user-attachments/assets/a973cdd1-14f7-4ce9-be99-00c860e2b7b9" width="250" /></a> | <a href="https://www.credly.com/badges/387b88be-c20a-430e-b66c-e96353f12c77/public_url"><img src="https://github.com/user-attachments/assets/a22c8508-a1f3-4b04-aea1-0b8032033592" width="250" /></a> | <img width=200> | <img width=200> | <img width=200> |
+| <a href="https://www.credly.com/badges/f690899e-1c45-4ff8-b35e-e011bd30d801/public_url"><img src="https://github.com/user-attachments/assets/a973cdd1-14f7-4ce9-be99-00c860e2b7b9" width="250" /></a> | <a href="https://www.credly.com/badges/387b88be-c20a-430e-b66c-e96353f12c77/public_url"><img src="https://github.com/user-attachments/assets/a22c8508-a1f3-4b04-aea1-0b8032033592" width="250" /></a> | <a href="https://www.credly.com/badges/a3427350-5c8f-41f2-8c85-f6c9b771dc3c/public_url"><img src="https://github.com/user-attachments/assets/d9f4b115-ca2a-4937-9cf5-e6503543e5d4" width="250" /></a> | <img width=200> | <img width=200> |
 |:--:|:--:|:--:|:--:|:--:|
-| <a href="https://www.credly.com/badges/f690899e-1c45-4ff8-b35e-e011bd30d801/public_url">Getting Started with Terraform on SAP BTP - SAP</a> | <a href="https://www.credly.com/badges/387b88be-c20a-430e-b66c-e96353f12c77/public_url">Mastering the Application Rationalization with SAP LeanIX - SAP</a> | <img width=200> | <img width=200> | <img width=200> |
+| <a href="https://www.credly.com/badges/f690899e-1c45-4ff8-b35e-e011bd30d801/public_url">Getting Started with Terraform on SAP BTP - SAP</a> | <a href="https://www.credly.com/badges/387b88be-c20a-430e-b66c-e96353f12c77/public_url">Mastering the Application Rationalization with SAP LeanIX - SAP</a> | <a href="https://www.credly.com/badges/a3427350-5c8f-41f2-8c85-f6c9b771dc3c/public_url">Exploring the SAP Master Data Governance Deployments - SAP</a> | <img width=200> | <img width=200> |
 
 </details>
 
