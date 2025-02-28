@@ -227,10 +227,20 @@
 
 ### IBM
 
-| <a href="https://www.credly.com/badges/e0f49a38-3af6-4eb5-a69d-2e16931972c2/public_url"><img src="https://github.com/user-attachments/assets/ea263d86-06d9-46ba-9946-c84fa28e4283" width=200 /></a> | <a href="https://www.credly.com/badges/857864af-eead-46d0-9805-8d825642aa6d/public_url"><img src="https://github.com/user-attachments/assets/ae6cdd85-24d7-46f3-aa61-83b11960ea1b" width=200 /></a> | <a href="https://www.credly.com/badges/0195f678-90fa-44f4-bbad-12a588ac593a/public_url"><img src="https://github.com/user-attachments/assets/6b0c1d09-012f-47b5-b3e8-ba2f4480d4a3" width=200 /></a> | <img width=100> | <img width=100> |
+| <a href="https://www.credly.com/badges/e0f49a38-3af6-4eb5-a69d-2e16931972c2/public_url"><img src="https://github.com/user-attachments/assets/ea263d86-06d9-46ba-9946-c84fa28e4283" width=250 /></a> | <a href="https://www.credly.com/badges/857864af-eead-46d0-9805-8d825642aa6d/public_url"><img src="https://github.com/user-attachments/assets/ae6cdd85-24d7-46f3-aa61-83b11960ea1b" width=250 /></a> | <a href="https://www.credly.com/badges/0195f678-90fa-44f4-bbad-12a588ac593a/public_url"><img src="https://github.com/user-attachments/assets/6b0c1d09-012f-47b5-b3e8-ba2f4480d4a3" width=250 /></a> | <a href="https://www.credly.com/badges/ce8f9f38-c187-40f5-aa9c-db72b3c29698/public_url"><img src="https://github.com/user-attachments/assets/241d4b64-fa49-43ef-a798-d20e0e2bf898" width=250 /></a> | <a href="https://www.credly.com/badges/bcd2b361-ce6d-4bb7-9fc4-4bba25cc6a7f/public_url"><img src="https://github.com/user-attachments/assets/5c0f9a9a-08c3-493f-81fc-a21b4a4428d1" width=250 /></a> |
 |:--:|:--:|:--:|:--:|:--:|
-| <a href="https://www.credly.com/badges/e0f49a38-3af6-4eb5-a69d-2e16931972c2/public_url">Getting Started with Artificial Intelligence - IBM<img width=200></a> | <a href="https://www.credly.com/badges/857864af-eead-46d0-9805-8d825642aa6d/public_url">Generative AI in Action - IBM<img width=200></a> | <a href="https://www.credly.com/badges/0195f678-90fa-44f4-bbad-12a588ac593a/public_url">Journey to Cloud: Envisioning Your Solution - IBM<img width=200></a> | <img width=100> | <img width=100> |
+| <a href="https://www.credly.com/badges/e0f49a38-3af6-4eb5-a69d-2e16931972c2/public_url">Getting Started with Artificial Intelligence - IBM</a> | <a href="https://www.credly.com/badges/857864af-eead-46d0-9805-8d825642aa6d/public_url">Generative AI in Action - IBM</a> | <a href="https://www.credly.com/badges/0195f678-90fa-44f4-bbad-12a588ac593a/public_url">Journey to Cloud: Envisioning Your Solution - IBM</a> | <a href="https://www.credly.com/badges/ce8f9f38-c187-40f5-aa9c-db72b3c29698/public_url">Getting Started with Cybersecurity - IBM</a> | <a href="https://www.credly.com/badges/bcd2b361-ce6d-4bb7-9fc4-4bba25cc6a7f/public_url">Getting Started with Data - IBM</a> |
 
+<br>
+
+<details>
+  <summary>More IBM</summary>
+   
+| <a href="https://www.credly.com/badges/3453b3fa-86b3-4c1e-a538-44a55263f298/public_url"><img src="https://github.com/user-attachments/assets/fc9adbba-6769-4c53-bc6a-1961fa0d72df" width="250" /></a> | <img width=200> | <img width=200> | <img width=200> | <img width=200> |
+|:--:|:--:|:--:|:--:|:--:|
+| <a href="https://www.credly.com/badges/3453b3fa-86b3-4c1e-a538-44a55263f298/public_url">Data Fundamentals - IBM</a> | <img width=200> | <img width=200> | <img width=200> | <img width=200> |
+
+</details>
 
 <br>
 
