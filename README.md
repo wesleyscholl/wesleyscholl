@@ -286,6 +286,17 @@
 
 <br>
 
+<details>
+  <summary>More SAP</summary>
+   
+| <a href="https://www.credly.com/badges/f690899e-1c45-4ff8-b35e-e011bd30d801/public_url"><img src="https://github.com/user-attachments/assets/a973cdd1-14f7-4ce9-be99-00c860e2b7b9" width="250" /></a> | <a href="https://www.credly.com/badges/387b88be-c20a-430e-b66c-e96353f12c77/public_url"><img src="https://github.com/user-attachments/assets/a22c8508-a1f3-4b04-aea1-0b8032033592" width="250" /></a> | <img width=200> | <img width=200> | <img width=200> |
+|:--:|:--:|:--:|:--:|:--:|
+| <a href="https://www.credly.com/badges/f690899e-1c45-4ff8-b35e-e011bd30d801/public_url">Getting Started with Terraform on SAP BTP - SAP</a> | <a href="https://www.credly.com/badges/387b88be-c20a-430e-b66c-e96353f12c77/public_url">Mastering the Application Rationalization with SAP LeanIX - SAP</a> | <img width=200> | <img width=200> | <img width=200> |
+
+</details>
+
+<br>
+
 ### Free Code Camp
 
 | <a href="https://www.freecodecamp.org/certification/wesleyscholl/back-end-development-and-apis"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/quality-assurance-v7"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/javascript-algorithms-and-data-structures"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/scientific-computing-with-python-v7"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/machine-learning-with-python-v7"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> |
