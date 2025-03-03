@@ -141,17 +141,54 @@
    <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/4ec13214-0ca1-41f0-8999-351369beda0a" width="100" /></a>
 </div>
 
+<br>
+
 ### 🏆 Certifications
 
-| <a href="https://www.credly.com/badges/7bf21552-b376-4631-b001-65575c021925/public_url"><img src="https://github.com/user-attachments/assets/4903359f-1c9f-44c3-b642-3f21f99f6f5f" width="250" /></a> | <a href="https://www.credential.net/5b685517-a40f-4497-a3c9-91bcd77da76e#gs.duvhjy"><img src="https://github.com/user-attachments/assets/786a66a5-9184-4455-a0c4-df48041eb840" width="250" /></a> | <a href="https://www.apollographql.com/tutorials/certifications/68d39cb9-e21b-456c-a9bf-076aebc550b6"><img src="https://github.com/user-attachments/assets/fe213d33-9a0f-4a33-b777-57dd330b512f" width="250" /></a> | <a href="https://www.apollographql.com/tutorials/certifications/d5d3faa0-9b85-4c56-939c-426c3b70afa0"><img src="https://github.com/user-attachments/assets/fac4e00d-d17f-4881-adfe-72766c67d73e" width="250" /></a> | <a href="https://api.badgr.io/public/assertions/H6wU7ybPQRuSXuomNrMkEQ"><img src="https://github.com/user-attachments/assets/7b01a873-b178-4391-9b5a-c453560e9d40" width="250" /></a> |
-|:--:|:--:|:--:|:--:|:--:|
-| <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/cf0e7941-8689-4be2-bddb-86a030795102-wesley-scholl-4b153266-3570-4ea5-b071-752263b4700a-certificate.pdf">Certified Argo Project Associate - CAPA</a> | <a href="https://pdf.credential.net/nd1hrzih_1724081595225.pdf">Understanding GitOps with Argo CD</a> | <a href="https://www.apollographql.com/tutorials/certifications/68d39cb9-e21b-456c-a9bf-076aebc550b6">Apollo Certified GraphQL Developer - Professional</a> | <a href="https://www.apollographql.com/tutorials/certifications/d5d3faa0-9b85-4c56-939c-426c3b70afa0">Apollo Certified GraphQL Developer - Associate</a> | <a href="https://api.badgr.io/public/assertions/H6wU7ybPQRuSXuomNrMkEQ">Postman API Fundamentals Expert - Postman</a> |
-| <a href="https://university.cockroachlabs.com/certificates/6ae4c188a2db4c5b9f31bed2e4d7be8e"><img src="https://github.com/user-attachments/assets/eb52f0e1-1a0c-4e4a-9fc8-dd81d2dc62f2" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/foundational-c-sharp-with-microsoft"><img src="https://github.com/user-attachments/assets/9e888a34-d767-4878-b94f-00436442e15e" width="250" /></a> | <a href="https://www.hackerrank.com/certificates/7eaae0d87b4f"><img src="https://github.com/user-attachments/assets/657b87d2-4414-4507-8d30-840aef8a81f9" width="250" /></a> | <a href="https://www.credly.com/badges/93f96fd6-7c8e-4476-a737-35a51e0041d0/public_url"><img src="https://github.com/user-attachments/assets/37d17acf-65fa-4624-b4f4-66a4b5b0bad2" width="250" /></a> | <a href="https://www.credly.com/badges/d1f40e95-73d7-40d4-beed-8ba85a71caf1/public_url"><img src="https://github.com/user-attachments/assets/d54123f9-f789-4cd4-a846-3fc89537290a" width="250" /></a> |
-| <a href="https://university.cockroachlabs.com/certificates/6ae4c188a2db4c5b9f31bed2e4d7be8e">Certified CockroachDB Enterprise Application Developer</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/foundational-c-sharp-with-microsoft">Microsoft Foundational C# Developer Certification</a> | <a href="https://www.hackerrank.com/certificates/7eaae0d87b4f">React Certified - Hacker Rank</a> | <a href="https://www.credly.com/badges/93f96fd6-7c8e-4476-a737-35a51e0041d0/public_url">CompTIA A+ ce Certification - CompTIA</a> | <a href="https://www.credly.com/badges/d1f40e95-73d7-40d4-beed-8ba85a71caf1/public_url">CompTIA Security+ ce Certification - CompTIA</a> |
-| <a href="https://credentials.databricks.com/4b044a04-0904-4747-9019-2ca9cfc9990b#acc.XmE28Cge"><img src="https://github.com/user-attachments/assets/d99153ab-ca2d-4c49-8a1a-b6940e452ab4" width="250" /></a> | <a href="https://www.credly.com/badges/9eaffb30-e5c0-4fe0-a584-2310f6448065/public_url"><img src="https://github.com/user-attachments/assets/aea422b8-1afa-4fcd-bf4f-bc15b4559da0" width="250" /></a> | <a href="https://www.credly.com/badges/f841f084-3b26-4643-b797-1caab5b78875/public_url"><img src="https://github.com/user-attachments/assets/e3d84f20-143c-415c-9ac7-49b166b54b64" width="250" /></a> | <a href="https://www.credly.com/badges/f6bc4a20-5f2b-4e1b-8cc1-1062dba47a6b/public_url"><img src="https://github.com/user-attachments/assets/c3ab5fbc-fd65-45d0-b0be-0d5360bc908b" width="250" /></a> | <a href="https://openbadgepassport.com/app/badge/info/884283"><img src="https://github.com/user-attachments/assets/f2ce701f-5877-4f8d-aa95-0b3249497222" width="250" /></a> |
-| <a href="https://credentials.databricks.com/4b044a04-0904-4747-9019-2ca9cfc9990b#acc.XmE28Cge">Generative AI Security Fundamentals - Databricks</a> | <a href="https://www.credly.com/badges/9eaffb30-e5c0-4fe0-a584-2310f6448065/public_url">Cloud Principles - Intel</a> | <a href="https://www.credly.com/badges/f841f084-3b26-4643-b797-1caab5b78875/public_url">Cloud DevOps - Intel</a> | <a href="https://www.credly.com/badges/f6bc4a20-5f2b-4e1b-8cc1-1062dba47a6b/public_url">Prompt Engineering Foundation Learner - Certiprof</a> | <a href="https://openbadgefactory.com/v1/assertion/f7bfa1b02680af141c45bfd78cd060f8cd819981">Machine Learning and Data Science Applications & Use Cases Professional - Altair</a> |
-| <a href="https://www.credly.com/badges/b5b41131-33e8-443b-b157-5276d8196c3c/public_url"><img src="https://github.com/user-attachments/assets/02c29fee-bb29-4746-8edc-f0b9835d599c" width="250" /></a> | | | | |
-| <a href="https://www.credly.com/badges/b5b41131-33e8-443b-b157-5276d8196c3c/public_url">Introduction to Modern AI - Cisco</a> | | | | |
+<table width="100%">
+  <tr>
+  <td width="20%"><a href="https://www.credly.com/badges/7bf21552-b376-4631-b001-65575c021925/public_url"><img src="https://github.com/user-attachments/assets/4903359f-1c9f-44c3-b642-3f21f99f6f5f" /></a></td>
+  <td width="20%"><a href="https://www.credential.net/5b685517-a40f-4497-a3c9-91bcd77da76e#gs.duvhjy"><img src="https://github.com/user-attachments/assets/786a66a5-9184-4455-a0c4-df48041eb840" /></a></td>
+  <td width="20%"><a href="https://www.apollographql.com/tutorials/certifications/68d39cb9-e21b-456c-a9bf-076aebc550b6"><img src="https://github.com/user-attachments/assets/fe213d33-9a0f-4a33-b777-57dd330b512f" /></a></td>
+  <td width="20%"><a href="https://www.apollographql.com/tutorials/certifications/d5d3faa0-9b85-4c56-939c-426c3b70afa0"><img src="https://github.com/user-attachments/assets/fac4e00d-d17f-4881-adfe-72766c67d73e" /></a></td>
+  <td width="20%"><a href="https://api.badgr.io/public/assertions/H6wU7ybPQRuSXuomNrMkEQ"><img src="https://github.com/user-attachments/assets/7b01a873-b178-4391-9b5a-c453560e9d40" /></a></td>
+  </tr>
+  <tr>
+  <td align="center" width="20%"><a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/cf0e7941-8689-4be2-bddb-86a030795102-wesley-scholl-4b153266-3570-4ea5-b071-752263b4700a-certificate.pdf">Certified Argo Project Associate - CAPA</a></td>
+  <td align="center" width="20%"><a href="https://pdf.credential.net/nd1hrzih_1724081595225.pdf">Understanding GitOps with Argo CD</a></td>
+  <td align="center" width="20%"><a href="https://www.apollographql.com/tutorials/certifications/68d39cb9-e21b-456c-a9bf-076aebc550b6">Apollo Certified GraphQL Developer - Professional</a></td>
+  <td align="center" width="20%"><a href="https://www.apollographql.com/tutorials/certifications/d5d3faa0-9b85-4c56-939c-426c3b70afa0">Apollo Certified GraphQL Developer - Associate</a></td>
+  <td align="center" width="20%"><a href="https://api.badgr.io/public/assertions/H6wU7ybPQRuSXuomNrMkEQ">Postman API Fundamentals Expert - Postman</a></td>
+  </tr>
+<tr>
+  <td width="20%"><a href="https://university.cockroachlabs.com/certificates/6ae4c188a2db4c5b9f31bed2e4d7be8e"><img src="https://github.com/user-attachments/assets/eb52f0e1-1a0c-4e4a-9fc8-dd81d2dc62f2" /></a></td>
+  <td width="20%"> <a href="https://www.freecodecamp.org/certification/wesleyscholl/foundational-c-sharp-with-microsoft"><img src="https://github.com/user-attachments/assets/9e888a34-d767-4878-b94f-00436442e15e" /></a></td>
+  <td width="20%"><a href="https://www.hackerrank.com/certificates/7eaae0d87b4f"><img src="https://github.com/user-attachments/assets/657b87d2-4414-4507-8d30-840aef8a81f9" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/93f96fd6-7c8e-4476-a737-35a51e0041d0/public_url"><img src="https://github.com/user-attachments/assets/37d17acf-65fa-4624-b4f4-66a4b5b0bad2" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/d1f40e95-73d7-40d4-beed-8ba85a71caf1/public_url"><img src="https://github.com/user-attachments/assets/d54123f9-f789-4cd4-a846-3fc89537290a" /></a></td>
+  </tr>
+  <tr>
+  <td align="center" width="20%"><a href="https://university.cockroachlabs.com/certificates/6ae4c188a2db4c5b9f31bed2e4d7be8e">Certified CockroachDB Enterprise Application Developer</a></td>
+  <td align="center" width="20%"><a href="https://www.freecodecamp.org/certification/wesleyscholl/foundational-c-sharp-with-microsoft">Microsoft Foundational C# Developer Certification</a></td>
+  <td align="center" width="20%"><a href="https://www.hackerrank.com/certificates/7eaae0d87b4f">React Certified - Hacker Rank</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/93f96fd6-7c8e-4476-a737-35a51e0041d0/public_url">CompTIA A+ ce Certification - CompTIA</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/d1f40e95-73d7-40d4-beed-8ba85a71caf1/public_url">CompTIA Security+ ce Certification - CompTIA</a></td>
+  </tr>
+<tr>
+  <td width="20%"><a href="https://www.credly.com/badges/e7971c8d-caef-45bf-9d64-8a1d171eda70/public_url"><img src="https://github.com/user-attachments/assets/df504100-0ab7-4dc0-acb7-4d3e3c10b660" /></a></td>
+  <td width="20%"><a href="https://credentials.databricks.com/4b044a04-0904-4747-9019-2ca9cfc9990b#acc.XmE28Cge"><img src="https://github.com/user-attachments/assets/d99153ab-ca2d-4c49-8a1a-b6940e452ab4" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/b5b41131-33e8-443b-b157-5276d8196c3c/public_url"><img src="https://github.com/user-attachments/assets/02c29fee-bb29-4746-8edc-f0b9835d599c" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/f6bc4a20-5f2b-4e1b-8cc1-1062dba47a6b/public_url"><img src="https://github.com/user-attachments/assets/c3ab5fbc-fd65-45d0-b0be-0d5360bc908b" /></a></td>
+  <td width="20%"><a href="https://openbadgepassport.com/app/badge/info/884283"><img src="https://github.com/user-attachments/assets/f2ce701f-5877-4f8d-aa95-0b3249497222" /></a></td>
+  </tr>
+  <tr>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/e7971c8d-caef-45bf-9d64-8a1d171eda70/public_url">CompTIA A+ Certification - CompTIA</a></td>
+  <td align="center" width="20%"><a href="https://credentials.databricks.com/4b044a04-0904-4747-9019-2ca9cfc9990b#acc.XmE28Cge">Generative AI Security Fundamentals - Databricks</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/b5b41131-33e8-443b-b157-5276d8196c3c/public_url">Introduction to Modern AI - Cisco</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/f6bc4a20-5f2b-4e1b-8cc1-1062dba47a6b/public_url">Prompt Engineering Foundation Learner - Certiprof</a></td>
+  <td align="center" width="20%"><a href="https://openbadgefactory.com/v1/assertion/f7bfa1b02680af141c45bfd78cd060f8cd819981">Machine Learning and Data Science Applications & Use Cases Professional - Altair</a></td>
+  </tr>
+</table>
 
 
 <br>
@@ -159,10 +196,25 @@
 
 ### 🏅 Addtional Certifications, Training and Badges
 
-### Google
-| <a href="https://www.cloudskillsboost.google/public_profiles/3defb66c-8ba8-4072-8ec7-8f7bc9bf7801"><img src="https://github.com/user-attachments/assets/a077f290-3e4e-4e1e-a470-692d2fcbc5b5" width="250" /></a> | <a href="https://www.cloudskillsboost.google/public_profiles/3defb66c-8ba8-4072-8ec7-8f7bc9bf7801"><img src="https://github.com/user-attachments/assets/b77bbe0f-fbdc-4bb6-b17a-8f603c993854" width="150" /></a> | <a href="https://www.credly.com/badges/d333de06-6b92-4969-8b30-33cfe25502e4/public_url"><img src="https://github.com/user-attachments/assets/674ec3f0-487d-4f8f-8dfb-d10a3f2cbb85" width="250" /></a> | <a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/neural-networks"><img src="https://github.com/user-attachments/assets/5bb8d248-95f4-4d8d-8c73-a6eaef0ecc1c" width="250" /></a> | <a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/llms"><img src="https://github.com/user-attachments/assets/a11bd113-829b-4b7a-a195-8a6e7fd61f1f" width="250" /></a> |
-|:--:|:--:|:--:|:--:|:--:|
-| <a href="https://www.cloudskillsboost.google/public_profiles/3defb66c-8ba8-4072-8ec7-8f7bc9bf7801">Applying AI Principles Badge - Google Cloud</a> | <a href="https://www.cloudskillsboost.google/public_profiles/3defb66c-8ba8-4072-8ec7-8f7bc9bf7801">Machine Learning Operations (MLOps) for Generative AI Badge - Google Cloud</a> | <a href="https://www.credly.com/badges/d333de06-6b92-4969-8b30-33cfe25502e4/public_url">Prompt Design in Vertex AI Skill Badge - Google Cloud</a> | <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Neural Networks - Google</a> | <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Large Language Models - Google</a> |
+
+### 🔎 Google
+
+<table width="100%">
+  <tr>
+  <td width="20%"><a href="https://www.cloudskillsboost.google/public_profiles/3defb66c-8ba8-4072-8ec7-8f7bc9bf7801"><img src="https://github.com/user-attachments/assets/a077f290-3e4e-4e1e-a470-692d2fcbc5b5" /></a></td>
+  <td width="20%"><a href="https://www.cloudskillsboost.google/public_profiles/3defb66c-8ba8-4072-8ec7-8f7bc9bf7801"><img src="https://github.com/user-attachments/assets/b77bbe0f-fbdc-4bb6-b17a-8f603c993854" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/d333de06-6b92-4969-8b30-33cfe25502e4/public_url"><img src="https://github.com/user-attachments/assets/674ec3f0-487d-4f8f-8dfb-d10a3f2cbb85" /></a></td>
+  <td width="20%"><a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/neural-networks"><img src="https://github.com/user-attachments/assets/5bb8d248-95f4-4d8d-8c73-a6eaef0ecc1c" /></a></td>
+  <td width="20%"><a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/llms"><img src="https://github.com/user-attachments/assets/a11bd113-829b-4b7a-a195-8a6e7fd61f1f" /></a></td>
+  </tr>
+  <tr>
+  <td align="center" width="20%"><a href="https://www.cloudskillsboost.google/public_profiles/3defb66c-8ba8-4072-8ec7-8f7bc9bf7801">Applying AI Principles Badge - Google Cloud</a></td>
+  <td align="center" width="20%"><a href="https://www.cloudskillsboost.google/public_profiles/3defb66c-8ba8-4072-8ec7-8f7bc9bf7801">Machine Learning Operations (MLOps) for Generative AI Badge - Google Cloud</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/d333de06-6b92-4969-8b30-33cfe25502e4/public_url">Prompt Design in Vertex AI Skill Badge - Google Cloud</a></td>
+  <td align="center" width="20%"><a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Neural Networks - Google</a></td>
+  <td align="center" width="20%"><a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Large Language Models - Google</a></td>
+  </tr>
+</table>
 
 <br>
 
@@ -185,7 +237,7 @@
 
 <br>
 
-### Microsoft
+### 🪟 Microsoft
 
 | <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/FVGEJVFX?sharingId=F343043E939729E2"><img src="https://github.com/user-attachments/assets/61d1c254-c5c8-4eb0-b72c-278c56cebfff" width="250" /></a> |  <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/WAJJHT3N?sharingId=F343043E939729E2"><img src="https://github.com/user-attachments/assets/8cba72d6-4f9b-48b2-9553-eee6be573586" width="250" /></a> | <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/K57JFA2B?sharingId=F343043E939729E2"><img src="https://github.com/user-attachments/assets/1ad8af43-aa6d-409d-bd55-9191ae1fe69c" width="250" /></a> | <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/N7GQA4UF?sharingId=F343043E939729E2"><img src="https://github.com/user-attachments/assets/5c90d997-29e7-43f1-84d0-7b35b62826d7" width="250" /></a> | <a href="https://learn.microsoft.com/api/achievements/share/en-us/WesleyScholl-0605/CWBE5JA9?sharingId=F343043E939729E2"><img src="https://github.com/user-attachments/assets/cf74394f-9269-4d6e-b27d-b550bd4a441a" width="250" /></a> |
 |:--:|:--:|:--:|:--:|:--:|
@@ -206,7 +258,7 @@
 
 <br>
 
-### AWS
+### 📦 AWS
 
 | <a href="https://www.credly.com/badges/aca39252-84cc-45d4-8514-683d9610c038/public_url"><img src="https://github.com/user-attachments/assets/f00a0a61-5d79-4e2f-915b-5902e78b5334" width="250" /></a>  | <a href="https://www.credly.com/badges/d700fdb0-3bc0-4b9c-8e07-cf0191d2a58d/public_url"><img src="https://github.com/user-attachments/assets/7ac2ab35-cd64-4801-9583-d3c13d5910ef" width="250" /></a> | <a href="https://www.credly.com/badges/f03725ac-01a2-42c2-b96d-77a66745cc37/public_url"><img src="https://github.com/user-attachments/assets/fab0ea86-22ee-439e-98a6-4582beabbc7b" width="250" /></a>| <a href="https://www.credly.com/badges/37a8e605-cdf0-4ef1-8e2f-e0af69e2e840/public_url"><img src="https://github.com/user-attachments/assets/695b1331-ba68-4959-9200-e471dabef419" width="250" /></a> | <a href="https://www.credly.com/badges/7699bbc1-f23b-464d-b7ef-c3b2bd95e539/public_url"><img src="https://github.com/user-attachments/assets/3bf42407-4b3d-4709-847e-57d18b7eb441" width="250" /></a> |
 |:--:|:--:|:--:|:--:|:--:|
@@ -225,7 +277,7 @@
 
 <br>
 
-### IBM
+### 🧠 IBM
 
 | <a href="https://www.credly.com/badges/e0f49a38-3af6-4eb5-a69d-2e16931972c2/public_url"><img src="https://github.com/user-attachments/assets/ea263d86-06d9-46ba-9946-c84fa28e4283" width=250 /></a> | <a href="https://www.credly.com/badges/857864af-eead-46d0-9805-8d825642aa6d/public_url"><img src="https://github.com/user-attachments/assets/ae6cdd85-24d7-46f3-aa61-83b11960ea1b" width=250 /></a> | <a href="https://www.credly.com/badges/0195f678-90fa-44f4-bbad-12a588ac593a/public_url"><img src="https://github.com/user-attachments/assets/6b0c1d09-012f-47b5-b3e8-ba2f4480d4a3" width=250 /></a> | <a href="https://www.credly.com/badges/ce8f9f38-c187-40f5-aa9c-db72b3c29698/public_url"><img src="https://github.com/user-attachments/assets/241d4b64-fa49-43ef-a798-d20e0e2bf898" width=250 /></a> | <a href="https://www.credly.com/badges/bcd2b361-ce6d-4bb7-9fc4-4bba25cc6a7f/public_url"><img src="https://github.com/user-attachments/assets/5c0f9a9a-08c3-493f-81fc-a21b4a4428d1" width=250 /></a> |
 |:--:|:--:|:--:|:--:|:--:|
@@ -244,7 +296,15 @@
 
 <br>
 
-### Linux Foundation
+### 🖥️ Intel
+
+| <a href="https://www.credly.com/badges/9eaffb30-e5c0-4fe0-a584-2310f6448065/public_url"><img src="https://github.com/user-attachments/assets/aea422b8-1afa-4fcd-bf4f-bc15b4559da0" width="250" /></a> | <a href="https://www.credly.com/badges/f841f084-3b26-4643-b797-1caab5b78875/public_url"><img src="https://github.com/user-attachments/assets/e3d84f20-143c-415c-9ac7-49b166b54b64" width="250" /></a> | <a href="https://www.credly.com/badges/a0c30798-d94c-4239-9a09-f0315bdc076d/public_url"><img src="https://github.com/user-attachments/assets/f180e8a6-f9ee-4661-82f7-944104c76b97" width="250" /></a> | <img width=200> | <img width=200> |
+|:--:|:--:|:--:|:--:|:--:|
+| <a href="https://www.credly.com/badges/9eaffb30-e5c0-4fe0-a584-2310f6448065/public_url">Cloud Principles - Intel</a> | <a href="https://www.credly.com/badges/f841f084-3b26-4643-b797-1caab5b78875/public_url">Cloud DevOps - Intel</a> | <a href="https://www.credly.com/badges/a0c30798-d94c-4239-9a09-f0315bdc076d/public_url">Cloud Deployments - Intel</a> | <img width=200> | <img width=200> |
+
+<br>
+
+### 🐧 Linux Foundation
 
 | <a href="https://www.credly.com/badges/3911dca5-77bb-42fb-b752-ce685df7eb50/public_url"><img src="https://github.com/user-attachments/assets/a92b469f-a98d-478a-bf05-9ccf73ae8601" width="250" /></a> | <a href="https://www.credly.com/badges/3911dca5-77bb-42fb-b752-ce685df7eb50/public_url"><img src="https://github.com/user-attachments/assets/3ca0e57c-b69b-4ea3-845d-37f8c548dcb0" width="250" /></a> | <a href="https://www.credly.com/badges/a7b17d6c-f5a4-406b-8eb3-31575a134d42/public_url"><img src="https://github.com/user-attachments/assets/2ed938aa-444d-4748-a748-280f31aceb35" width="250" /></a> | <a href="https://www.credly.com/badges/6cb2358e-d0b3-468e-a700-819ba14e6d6a/public_url"><img src="https://github.com/user-attachments/assets/28869a70-cc4c-453e-a294-7022f445f295" width="250" /></a> | <a href="https://www.credly.com/badges/66fd818d-88a0-46b2-8499-dd845d06b25e/public_url"><img src="https://github.com/user-attachments/assets/1ea8b28e-5676-4fda-97c4-adbcbd738eb3" width="250" /></a> |
 |:--:|:--:|:--:|:--:|:--:|
@@ -278,7 +338,7 @@
 
 <br>
 
-### SAP
+### 🟢 SAP
 
 | <a href="https://www.credly.com/badges/3dd85b00-5cc6-40d3-b7ce-99e649f7b86f/public_url"><img src="https://github.com/user-attachments/assets/96618968-74d3-4e13-8730-28d9b9c6e946" width="250" /></a> | <a href="https://www.credly.com/badges/bce4e06d-68b5-4e1e-ae6f-f9cd558dca3a/public_url"><img src="https://github.com/user-attachments/assets/eaf52d0a-b948-459d-b1b6-5509cffc273e" width="250" /></a> | <a href="https://www.credly.com/badges/547b2512-d72e-4af7-991d-faf20742d28d/public_url"><img src="https://github.com/user-attachments/assets/c17eea6f-f4a6-4cb6-a224-0378275917b9" width="250" /></a> | <a href="https://www.credly.com/badges/8e2dee8e-3e8a-4c7c-9e96-6385a17f103d/public_url"><img src="https://github.com/user-attachments/assets/2c4cbe39-09ee-4084-bd5c-925e68d28fc1" width="250" /></a> | <a href="https://www.credly.com/badges/c1a3b7de-7ffc-4b89-96d0-c27050aa97e6/public_url"><img src="https://github.com/user-attachments/assets/4ce3d3c9-49d0-44e3-9b2a-5f990746b249" width="250" /></a> |
 |:--:|:--:|:--:|:--:|:--:|
@@ -298,7 +358,7 @@
 
 <br>
 
-### Free Code Camp
+### 💻 Free Code Camp
 
 | <a href="https://www.freecodecamp.org/certification/wesleyscholl/back-end-development-and-apis"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/quality-assurance-v7"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/javascript-algorithms-and-data-structures"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/scientific-computing-with-python-v7"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/machine-learning-with-python-v7"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> |
 |:--:|:--:|:--:|:--:|:--:|
