@@ -340,20 +340,73 @@
 
 ### 🟢 SAP
 
-| <a href="https://www.credly.com/badges/3dd85b00-5cc6-40d3-b7ce-99e649f7b86f/public_url"><img src="https://github.com/user-attachments/assets/96618968-74d3-4e13-8730-28d9b9c6e946" width="250" /></a> | <a href="https://www.credly.com/badges/bce4e06d-68b5-4e1e-ae6f-f9cd558dca3a/public_url"><img src="https://github.com/user-attachments/assets/eaf52d0a-b948-459d-b1b6-5509cffc273e" width="250" /></a> | <a href="https://www.credly.com/badges/547b2512-d72e-4af7-991d-faf20742d28d/public_url"><img src="https://github.com/user-attachments/assets/c17eea6f-f4a6-4cb6-a224-0378275917b9" width="250" /></a> | <a href="https://www.credly.com/badges/8e2dee8e-3e8a-4c7c-9e96-6385a17f103d/public_url"><img src="https://github.com/user-attachments/assets/2c4cbe39-09ee-4084-bd5c-925e68d28fc1" width="250" /></a> | <a href="https://www.credly.com/badges/c1a3b7de-7ffc-4b89-96d0-c27050aa97e6/public_url"><img src="https://github.com/user-attachments/assets/4ce3d3c9-49d0-44e3-9b2a-5f990746b249" width="250" /></a> |
-|:--:|:--:|:--:|:--:|:--:|
-| <a href="https://www.credly.com/badges/3dd85b00-5cc6-40d3-b7ce-99e649f7b86f/public_url">Introducing the High Tech Industry - SAP</a> | <a href="https://www.credly.com/badges/bce4e06d-68b5-4e1e-ae6f-f9cd558dca3a/public_url">Developing AI models with the Machine Learning clients - SAP</a> | <a href="https://www.credly.com/badges/547b2512-d72e-4af7-991d-faf20742d28d/public_url">Putting AI Ethics into Practice at SAP - SAP</a> | <a href="https://www.credly.com/badges/8e2dee8e-3e8a-4c7c-9e96-6385a17f103d/public_url">Creating Applications and Extensions using SAP Build Code - SAP</a> | <a href="https://www.credly.com/badges/c1a3b7de-7ffc-4b89-96d0-c27050aa97e6/public_url">Setting up an ABAP Environment on SAP BTP - SAP</a> |
+<table width="100%">
+  <tr>
+  <td width="20%"><a href="https://www.credly.com/badges/3dd85b00-5cc6-40d3-b7ce-99e649f7b86f/public_url"><img src="https://github.com/user-attachments/assets/96618968-74d3-4e13-8730-28d9b9c6e946" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/bce4e06d-68b5-4e1e-ae6f-f9cd558dca3a/public_url"><img src="https://github.com/user-attachments/assets/eaf52d0a-b948-459d-b1b6-5509cffc273e" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/547b2512-d72e-4af7-991d-faf20742d28d/public_url"><img src="https://github.com/user-attachments/assets/c17eea6f-f4a6-4cb6-a224-0378275917b9" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/8e2dee8e-3e8a-4c7c-9e96-6385a17f103d/public_url"><img src="https://github.com/user-attachments/assets/2c4cbe39-09ee-4084-bd5c-925e68d28fc1" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/c1a3b7de-7ffc-4b89-96d0-c27050aa97e6/public_url"><img src="https://github.com/user-attachments/assets/4ce3d3c9-49d0-44e3-9b2a-5f990746b249" /></a></td>
+  </tr>
+  <tr>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/3dd85b00-5cc6-40d3-b7ce-99e649f7b86f/public_url">Introducing the High Tech Industry - SAP</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/bce4e06d-68b5-4e1e-ae6f-f9cd558dca3a/public_url">Developing AI models with the Machine Learning clients - SAP</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/547b2512-d72e-4af7-991d-faf20742d28d/public_url">Putting AI Ethics into Practice at SAP - SAP</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/8e2dee8e-3e8a-4c7c-9e96-6385a17f103d/public_url">Creating Applications and Extensions using SAP Build Code - SAP</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/c1a3b7de-7ffc-4b89-96d0-c27050aa97e6/public_url">Setting up an ABAP Environment on SAP BTP - SAP</a></td>
+  </tr>
+</table>
 
 <br>
 
 <details>
   <summary>More SAP</summary>
+
+<table width="100%">
+  <tr>
+  <td width="20%"><a href="https://www.credly.com/badges/f690899e-1c45-4ff8-b35e-e011bd30d801/public_url"><img src="https://github.com/user-attachments/assets/a973cdd1-14f7-4ce9-be99-00c860e2b7b9" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/387b88be-c20a-430e-b66c-e96353f12c77/public_url"><img src="https://github.com/user-attachments/assets/a22c8508-a1f3-4b04-aea1-0b8032033592" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/a3427350-5c8f-41f2-8c85-f6c9b771dc3c/public_url"><img src="https://github.com/user-attachments/assets/d9f4b115-ca2a-4937-9cf5-e6503543e5d4" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/434848c9-3db7-4eef-a1c2-a825fe38f787/public_url"><img src="https://github.com/user-attachments/assets/7ba5577b-5101-4fd5-91c4-1c2b16f8784f" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/2d2d4c4f-a1fa-496b-99c0-96e6e7f28eee/public_url"><img src="https://github.com/user-attachments/assets/8d6691f2-b95e-47f8-bdf9-767bbcd856fc" /></a></td>
+  </tr>
+  <tr>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/f690899e-1c45-4ff8-b35e-e011bd30d801/public_url">Getting Started with Terraform on SAP BTP - SAP</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/387b88be-c20a-430e-b66c-e96353f12c77/public_url">Mastering the Application Rationalization with SAP LeanIX - SAP</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/a3427350-5c8f-41f2-8c85-f6c9b771dc3c/public_url">Exploring the SAP Master Data Governance Deployments - SAP</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/434848c9-3db7-4eef-a1c2-a825fe38f787/public_url">Discovering SAP Integration Suite - Managed Gateway for spend Management and SAP Business Network - SAP</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/2d2d4c4f-a1fa-496b-99c0-96e6e7f28eee/public_url">Introducing SAP S/4HANA Cloud for Group Reporting - SAP</a></td>
+  </tr>
+  <tr>
+  <td width="20%"><a href="https://www.credly.com/badges/bd1aa05b-e6da-48a7-adf8-c8383050023c/public_url"><img src="https://github.com/user-attachments/assets/77f8aa1c-ab14-488f-ba23-92e979a54692" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/7635b9c0-f162-4046-b8c5-04743cbd3cc5/public_url"><img src="https://github.com/user-attachments/assets/d1145e4d-53bc-43b5-9dfc-ea667c843300" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/6dd37000-28c5-4f0c-87e6-4ce283ee108b/public_url"><img src="https://github.com/user-attachments/assets/143b1fae-3f24-4b1f-82d7-d98608d342d2" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/b0e6f6d4-767a-4d42-8147-cba90bfc714c/public_url"><img src="https://github.com/user-attachments/assets/9f0d0f5f-ce5c-4102-83d4-f2d803034b32" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/dc366e20-0e7d-42c0-9ed7-6a5843875e1b/public_url"><img src="https://github.com/user-attachments/assets/56cf8f22-2654-4750-b753-2cd81c0bed2c" /></a></td>
+  </tr>
+  <tr>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/bd1aa05b-e6da-48a7-adf8-c8383050023c/public_url">Modernizing Integration with SAP Integration Suite - SAP Learning MOOC - SAP</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/7635b9c0-f162-4046-b8c5-04743cbd3cc5/public_url">Exploring SAP Converged Cloud - SAP</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/6dd37000-28c5-4f0c-87e6-4ce283ee108b/public_url">Introducing the Media Industry - SAP</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/b0e6f6d4-767a-4d42-8147-cba90bfc714c/public_url">Enhancing Security in Your SAP Concur Environment - SAP</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/dc366e20-0e7d-42c0-9ed7-6a5843875e1b/public_url">Administering SAP S/4HANA Cloud Private Edition - Interaction with SAP - SAP</a></td>
+  </tr>
+   <tr>
+  <td width="20%"><a href="https://www.credly.com/badges/963b6070-ca63-42ae-8a2d-86eff0ee595b/public_url"><img src="https://github.com/user-attachments/assets/c9847de6-71f2-4f2d-baf4-bbab0a5115fb" /></a></td>
+  <td width="20%"></td>
+  <td width="20%"></td>
+  <td width="20%"></td>
+  <td width="20%"></td>
+  </tr>
+  <tr>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/963b6070-ca63-42ae-8a2d-86eff0ee595b/public_url">Introducing Cybersecurity - SAP</a></td>
+  <td align="center" width="20%"></td>
+  <td align="center" width="20%"></td>
+  <td align="center" width="20%"></td>
+  <td align="center" width="20%"></td>
+  </tr>
+</table>
    
-| <a href="https://www.credly.com/badges/f690899e-1c45-4ff8-b35e-e011bd30d801/public_url"><img src="https://github.com/user-attachments/assets/a973cdd1-14f7-4ce9-be99-00c860e2b7b9" width="250" /></a> | <a href="https://www.credly.com/badges/387b88be-c20a-430e-b66c-e96353f12c77/public_url"><img src="https://github.com/user-attachments/assets/a22c8508-a1f3-4b04-aea1-0b8032033592" width="250" /></a> | <a href="https://www.credly.com/badges/a3427350-5c8f-41f2-8c85-f6c9b771dc3c/public_url"><img src="https://github.com/user-attachments/assets/d9f4b115-ca2a-4937-9cf5-e6503543e5d4" width="250" /></a> | <img width=200> | <img width=200> |
-|:--:|:--:|:--:|:--:|:--:|
-| <a href="https://www.credly.com/badges/f690899e-1c45-4ff8-b35e-e011bd30d801/public_url">Getting Started with Terraform on SAP BTP - SAP</a> | <a href="https://www.credly.com/badges/387b88be-c20a-430e-b66c-e96353f12c77/public_url">Mastering the Application Rationalization with SAP LeanIX - SAP</a> | <a href="https://www.credly.com/badges/a3427350-5c8f-41f2-8c85-f6c9b771dc3c/public_url">Exploring the SAP Master Data Governance Deployments - SAP</a> | <img width=200> | <img width=200> |
-
-
 </details>
 
 <br>
