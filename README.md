@@ -516,18 +516,44 @@
 
 ### 💻 Free Code Camp
 
-| <a href="https://www.freecodecamp.org/certification/wesleyscholl/back-end-development-and-apis"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/quality-assurance-v7"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/javascript-algorithms-and-data-structures"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/scientific-computing-with-python-v7"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/machine-learning-with-python-v7"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> |
-|:--:|:--:|:--:|:--:|:--:|
-| <a href="https://www.freecodecamp.org/certification/wesleyscholl/back-end-development-and-apis">Back End Development and APIs Developer Certification - FreeCodeCamp</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/quality-assurance-v7">Quality Assurance Developer Certification - FreeCodeCamp</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures Developer Certification - FreeCodeCamp</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/scientific-computing-with-python-v7">Scientific Computing with Python Developer Certification - FreeCodeCamp</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/machine-learning-with-python-v7">Machine Learning with Python Developer Certification - FreeCodeCamp</a> |
+<table>
+ <tr>
+  <td width="20%"><a href="https://www.freecodecamp.org/certification/wesleyscholl/back-end-development-and-apis"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" /></a> </td>
+  <td width="20%"><a href="https://www.freecodecamp.org/certification/wesleyscholl/quality-assurance-v7"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" /></a></td>
+  <td width="20%"><a href="https://www.freecodecamp.org/certification/wesleyscholl/javascript-algorithms-and-data-structures"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" /></a></td>
+  <td width="20%"><a href="https://www.freecodecamp.org/certification/wesleyscholl/scientific-computing-with-python-v7"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" /></a></td>
+  <td width="20%"><a href="https://www.freecodecamp.org/certification/wesleyscholl/machine-learning-with-python-v7"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" /></a></td>
+  </tr>
+  <tr>
+  <td align="center" width="20%"><a href="https://www.freecodecamp.org/certification/wesleyscholl/back-end-development-and-apis">Back End Development and APIs Developer Certification - FreeCodeCamp</a></td>
+  <td align="center" width="20%"><a href="https://www.freecodecamp.org/certification/wesleyscholl/quality-assurance-v7">Quality Assurance Developer Certification - FreeCodeCamp</a></td>
+  <td align="center" width="20%"><a href="https://www.freecodecamp.org/certification/wesleyscholl/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures Developer Certification - FreeCodeCamp</a></td>
+  <td align="center" width="20%"><a href="https://www.freecodecamp.org/certification/wesleyscholl/scientific-computing-with-python-v7">Scientific Computing with Python Developer Certification - FreeCodeCamp</a></td>
+  <td align="center" width="20%"><a href="https://www.freecodecamp.org/certification/wesleyscholl/machine-learning-with-python-v7">Machine Learning with Python Developer Certification - FreeCodeCamp</a></td>
+  </tr>
+</table>
 
 <br>
 
 <details>
   <summary>More Free Code Camp</summary>
    
-| <a href="https://www.freecodecamp.org/certification/wesleyscholl/responsive-web-design"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/front-end-development-libraries"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" width="250" /></a> | | | |
-|:--:|:--:|:--:|:--:|:--:|
-| <a href="https://www.freecodecamp.org/certification/wesleyscholl/responsive-web-design">Responsive Web Design Developer Certification - FreeCodeCamp</a> | <a href="https://www.freecodecamp.org/certification/wesleyscholl/front-end-development-libraries">Front End Development Libraries Developer Certification - FreeCodeCamp</a> | | | |
+<table>
+   <tr>
+  <td width="20%"><a href="https://www.freecodecamp.org/certification/wesleyscholl/responsive-web-design"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" /></a></td>
+  <td width="20%"><a href="https://www.freecodecamp.org/certification/wesleyscholl/front-end-development-libraries"><img src="https://github.com/user-attachments/assets/a826a03b-8cb2-4f18-b5e0-8598b75d651d" /></a></td>
+  <td width="20%"></td>
+  <td width="20%"></td>
+  <td width="20%"></td>
+  </tr>
+  <tr>
+  <td align="center" width="20%"><a href="https://www.freecodecamp.org/certification/wesleyscholl/responsive-web-design">Responsive Web Design Developer Certification - FreeCodeCamp</a></td>
+  <td align="center" width="20%"><a href="https://www.freecodecamp.org/certification/wesleyscholl/front-end-development-libraries">Front End Development Libraries Developer Certification - FreeCodeCamp</a></td>
+  <td align="center" width="20%"></td>
+  <td align="center" width="20%"></td>
+  <td align="center" width="20%"></td>
+  </tr>
+</table>
 
 </details>
 
