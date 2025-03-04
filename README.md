@@ -394,14 +394,14 @@
   <td width="20%"><a href="https://www.credly.com/badges/a0c30798-d94c-4239-9a09-f0315bdc076d/public_url"><img src="https://github.com/user-attachments/assets/f180e8a6-f9ee-4661-82f7-944104c76b97" /></a></td>
   <td width="20%"><a href="https://www.credly.com/badges/3c7782e0-6f9c-4d37-8d73-45ddc6b4574d/public_url"><img src="https://github.com/user-attachments/assets/e6f3a452-f971-4f4c-ab17-a6c378d53095" /></a></td>
   <td width="20%"><a href="https://www.credly.com/badges/f841f084-3b26-4643-b797-1caab5b78875/public_url"><img src="https://github.com/user-attachments/assets/e3d84f20-143c-415c-9ac7-49b166b54b64" /></a></td>
-  <td width="20%"></td>
+  <td width="20%"><a href="https://www.credly.com/badges/3e84c8f0-8311-4fae-bb69-9864851a33b1/public_url"><img src="https://github.com/user-attachments/assets/2e6ee5a7-e08c-4207-bcea-a9bde5c2f591" /></a></td>
   </tr>
   <tr>
   <td align="center" width="20%"><a href="https://www.credly.com/badges/9eaffb30-e5c0-4fe0-a584-2310f6448065/public_url">Cloud Principles - Intel</a></td>
   <td align="center" width="20%"><a href="https://www.credly.com/badges/a0c30798-d94c-4239-9a09-f0315bdc076d/public_url">Cloud Deployments - Intel</a></td>
   <td align="center" width="20%"><a href="https://www.credly.com/badges/3c7782e0-6f9c-4d37-8d73-45ddc6b4574d/public_url">High Performance Computing - Intel</a></td>
   <td align="center" width="20%"><a href="https://www.credly.com/badges/f841f084-3b26-4643-b797-1caab5b78875/public_url">Cloud DevOps - Intel</a></td>
-  <td align="center" width="20%"></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/3e84c8f0-8311-4fae-bb69-9864851a33b1/public_url">Intel® Granulate™ Application Optimization - Intel</a></td>
   </tr>
 </table>
 
