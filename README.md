@@ -526,6 +526,27 @@
 
 <br>
 
+### 🔵 SAS
+
+<table width="100%">
+  <tr>
+  <td width="20%"><a href="https://www.credly.com/badges/fa5b1550-0958-415f-ad44-4f5686cb879d/public_url"><img src="https://github.com/user-attachments/assets/6f03e6d9-225f-462a-9700-ed094c1ac07c" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/8a64435b-e2f4-4378-9c3c-f1a595032f14/public_url"><img src="https://github.com/user-attachments/assets/76f1f7f0-b92b-4c7c-85c8-5e4041c3ec9e" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/14ac1a05-111e-4f1b-a651-0d5452db4ad5/public_url"><img src="https://github.com/user-attachments/assets/eaa94415-3904-4e2a-a638-c8089844ab33" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/1c743cf1-5ff7-476c-aade-8a62997d91e1/public_url"><img src="https://github.com/user-attachments/assets/9ff42887-dc0b-4155-8b7a-05ef5b289f99" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/687bae10-728b-4145-bfee-c6029faa9f94/public_url"><img src="https://github.com/user-attachments/assets/df50f5ee-0847-4248-bb3f-8b3d440227f0" /></a></td>
+  </tr>
+  <tr>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/fa5b1550-0958-415f-ad44-4f5686cb879d/public_url">Responsible Innovation and Trustworthy AI - SAS</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/8a64435b-e2f4-4378-9c3c-f1a595032f14/public_url">Generative AI Using SAS - SAS</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/14ac1a05-111e-4f1b-a651-0d5452db4ad5/public_url">Modern Data Science with SAS Viya Workbench and Python - SAS</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/1c743cf1-5ff7-476c-aade-8a62997d91e1/public_url">Data Literacy Essentials - SAS</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/687bae10-728b-4145-bfee-c6029faa9f94/public_url">Introduction to Web Design - SAS</a></td>
+  </tr>
+</table>
+
+<br>
+
 ### 💻 Free Code Camp
 
 <table>
