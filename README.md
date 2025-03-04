@@ -418,7 +418,7 @@
   <td width="20%"><a href="https://www.credly.com/badges/66fd818d-88a0-46b2-8499-dd845d06b25e/public_url"><img src="https://github.com/user-attachments/assets/1ea8b28e-5676-4fda-97c4-adbcbd738eb3" /></a></td>
   </tr>
   <tr>
-  <td align="center" width="20%"><a href="https://www.credly.com/badges/3911dca5-77bb-42fb-b752-ce685df7eb50/public_url">DevOps and Workflow Management with Argo</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/3911dca5-77bb-42fb-b752-ce685df7eb50/public_url">DevOps and Workflow Management with Argo - The Linux Foundation</a></td>
   <td align="center" width="20%"><a href="https://www.credly.com/badges/3911dca5-77bb-42fb-b752-ce685df7eb50/public_url">GitOps - DevOps & Site Reliability - The Linux Foundation</a></td>
   <td align="center" width="20%"><a href="https://www.credly.com/badges/a7b17d6c-f5a4-406b-8eb3-31575a134d42/public_url">DevOps and Site Reliability Engineering - The Linux Foundation</a></td>
   <td align="center" width="20%"><a href="https://www.credly.com/badges/6cb2358e-d0b3-468e-a700-819ba14e6d6a/public_url">Kubernetes - Cloud & Containers - The Linux Foundation</a></td>
