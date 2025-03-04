@@ -10,7 +10,7 @@
 <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
    <div align=center>
 <a href="https://github.com/wesleyscholl"><img src="https://github-readme-stats.vercel.app/api?username=wesleyscholl&show_icons=true&count_private=true&bg_color=20232A&theme=react&card_width=400&rank_icon=github" alt="Wesley's GitHub Stats" />
-</a> [![GitHub Streak](https://streak-stats.demolab.com?user=wesleyscholl&theme=react&card_width=400)](https://git.io/streak-stats)
+</a> [![GitHub Streak](https://streak-stats.demolab.com?user=wesleyscholl&theme=react&card_width=400)]
 </div>
 </div>
 
