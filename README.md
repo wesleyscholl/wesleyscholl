@@ -177,16 +177,16 @@
 <tr>
   <td width="20%"><a href="https://www.credly.com/badges/e7971c8d-caef-45bf-9d64-8a1d171eda70/public_url"><img src="https://github.com/user-attachments/assets/df504100-0ab7-4dc0-acb7-4d3e3c10b660" /></a></td>
   <td width="20%"><a href="https://credentials.databricks.com/4b044a04-0904-4747-9019-2ca9cfc9990b#acc.XmE28Cge"><img src="https://github.com/user-attachments/assets/d99153ab-ca2d-4c49-8a1a-b6940e452ab4" /></a></td>
-  <td width="20%"><a href="https://www.credly.com/badges/b5b41131-33e8-443b-b157-5276d8196c3c/public_url"><img src="https://github.com/user-attachments/assets/02c29fee-bb29-4746-8edc-f0b9835d599c" /></a></td>
   <td width="20%"><a href="https://www.credly.com/badges/f6bc4a20-5f2b-4e1b-8cc1-1062dba47a6b/public_url"><img src="https://github.com/user-attachments/assets/c3ab5fbc-fd65-45d0-b0be-0d5360bc908b" /></a></td>
   <td width="20%"><a href="https://openbadgepassport.com/app/badge/info/884283"><img src="https://github.com/user-attachments/assets/f2ce701f-5877-4f8d-aa95-0b3249497222" /></a></td>
+  <td width="20%"></td>
   </tr>
   <tr>
   <td align="center" width="20%"><a href="https://www.credly.com/badges/e7971c8d-caef-45bf-9d64-8a1d171eda70/public_url">CompTIA A+ Certification - CompTIA</a></td>
   <td align="center" width="20%"><a href="https://credentials.databricks.com/4b044a04-0904-4747-9019-2ca9cfc9990b#acc.XmE28Cge">Generative AI Security Fundamentals - Databricks</a></td>
-  <td align="center" width="20%"><a href="https://www.credly.com/badges/b5b41131-33e8-443b-b157-5276d8196c3c/public_url">Introduction to Modern AI - Cisco</a></td>
   <td align="center" width="20%"><a href="https://www.credly.com/badges/f6bc4a20-5f2b-4e1b-8cc1-1062dba47a6b/public_url">Prompt Engineering Foundation Learner - Certiprof</a></td>
   <td align="center" width="20%"><a href="https://openbadgefactory.com/v1/assertion/f7bfa1b02680af141c45bfd78cd060f8cd819981">Machine Learning and Data Science Applications & Use Cases Professional - Altair</a></td>
+  <td width="20%"></td>
   </tr>
 </table>
 
@@ -450,6 +450,27 @@
 | <a href="https://www.credly.com/badges/ee294ff6-51b1-4b9e-946c-a1298d1dbfbe/public_url">Fundamentals of Quantum Computing - The Linux Foundation</a> | <a href="https://www.credly.com/badges/e903fb87-690d-4c6e-a265-9f48e0b37c0b/public_url">Introduction to Node.js - The Linux Foundation</a> | | | |
 
 </details>
+
+<br>
+
+### 🌐 Cisco
+
+<table width="100%">
+  <tr>
+  <td width="20%"><a href="https://www.credly.com/badges/b5b41131-33e8-443b-b157-5276d8196c3c/public_url"><img src="https://github.com/user-attachments/assets/02c29fee-bb29-4746-8edc-f0b9835d599c" /></a></td>
+  <td width="20%"><a href="https://www.credly.com/badges/cba02919-b9b9-4a52-8352-33c88074791e/public_url"><img src="https://github.com/user-attachments/assets/c90c8acb-a544-45e8-b5a7-73742996e611" /></a></td>
+  <td width="20%"></td>
+  <td width="20%">/td>
+  <td width="20%"></td>
+  </tr>
+  <tr>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/b5b41131-33e8-443b-b157-5276d8196c3c/public_url">Introduction to Modern AI - Cisco</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/cba02919-b9b9-4a52-8352-33c88074791e/public_url">Engaging Stakeholders for Success - Cisco</a></td>
+  <td align="center" width="20%"></td>
+  <td align="center" width="20%"></td>
+  <td align="center" width="20%"></td>
+  </tr>
+</table>
 
 <br>
 
