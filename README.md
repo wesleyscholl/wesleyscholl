@@ -474,6 +474,30 @@
 
 <br>
 
+<details>
+  <summary>More Cisco</summary>
+
+<table>
+<tr>
+  <td width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US"><img src="https://github.com/user-attachments/assets/13d8a1da-43d3-42c1-827e-9f834c176663" /></a></td>
+  <td width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US"><img src="https://github.com/user-attachments/assets/40a7b9ce-c520-4743-b6f3-8ecd48c48a77" /></a></td>
+  <td width="20%"></td>
+  <td width="20%"></td>
+  <td width="20%"></td>
+  </tr>
+  <tr>
+  <td align="center" width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US">Laptops - Cisco</a></td>
+  <td align="center" width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US">Mobile Devices - Cisco</a></td>
+  <td align="center" width="20%"></td>
+  <td align="center" width="20%"></td>
+  <td align="center" width="20%"></td>
+  </tr>
+</table>
+
+</details>
+
+<br>
+
 ### 🟢 SAP
 
 <table width="100%">
