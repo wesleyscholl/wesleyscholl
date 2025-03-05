@@ -607,7 +607,7 @@
 
 <br>
 
-### 💻 Free Code Camp
+### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/275d4f86-634c-4195-b37e-5e75184baeb9" width="30" /></a> Free Code Camp
 
 <table>
  <tr>
