@@ -458,17 +458,17 @@
 <table width="100%">
   <tr>
   <td width="20%"><a href="https://www.credly.com/badges/b5b41131-33e8-443b-b157-5276d8196c3c/public_url"><img src="https://github.com/user-attachments/assets/02c29fee-bb29-4746-8edc-f0b9835d599c" /></a></td> 
+  <td width="20%"><a href="https://www.credly.com/badges/a6bd44fc-c964-4196-aa4d-fac223ad7fe4/public_url"><img src="https://github.com/user-attachments/assets/99178263-537c-4280-bea1-dacb4558ca6a" /></a></td> 
   <td width="20%"><a href="https://www.credly.com/badges/7f5f620f-70db-41ed-9a27-35449bbae53f/public_url"><img src="https://github.com/user-attachments/assets/6c747d3b-2a11-4d6c-a728-05458d65be22" /></a></td>
   <td width="20%"><a href="https://www.credly.com/badges/cba02919-b9b9-4a52-8352-33c88074791e/public_url"><img src="https://github.com/user-attachments/assets/c90c8acb-a544-45e8-b5a7-73742996e611" /></a></td>
   <td width="20%"><a href="https://www.credly.com/badges/55c651fb-aa9b-4098-aa84-63cae3c5706c/public_url"><img src="https://github.com/user-attachments/assets/b35e2546-ba2d-4585-ac7e-39db3025f444" /></a></td>
-  <td width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US"><img src="https://github.com/user-attachments/assets/fb885478-3d5b-4cea-947a-d96876977013" /></a></td>
   </tr>
   <tr>
   <td align="center" width="20%"><a href="https://www.credly.com/badges/b5b41131-33e8-443b-b157-5276d8196c3c/public_url">Introduction to Modern AI - Cisco</a></td>
+  <td align="center" width="20%"><a href="https://www.credly.com/badges/a6bd44fc-c964-4196-aa4d-fac223ad7fe4/public_url">Introduction to IoT - Cisco</a></td>
   <td align="center" width="20%"><a href="https://www.credly.com/badges/7f5f620f-70db-41ed-9a27-35449bbae53f/public_url">Computer Hardware Basics - Cisco</a></td>
   <td align="center" width="20%"><a href="https://www.credly.com/badges/cba02919-b9b9-4a52-8352-33c88074791e/public_url">Engaging Stakeholders for Success - Cisco</a></td>
   <td align="center" width="20%"><a href="https://www.credly.com/badges/55c651fb-aa9b-4098-aa84-63cae3c5706c/public_url">Creating Compelling Reports - Cisco</a></td>
-  <td align="center" width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US">Personal Computers - Cisco</a></td>
   </tr>
 </table>
 
@@ -481,14 +481,14 @@
 <tr>
   <td width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US"><img src="https://github.com/user-attachments/assets/13d8a1da-43d3-42c1-827e-9f834c176663" /></a></td>
   <td width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US"><img src="https://github.com/user-attachments/assets/40a7b9ce-c520-4743-b6f3-8ecd48c48a77" /></a></td>
-  <td width="20%"></td>
+  <td width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US"><img src="https://github.com/user-attachments/assets/fb885478-3d5b-4cea-947a-d96876977013" /></a></td>
   <td width="20%"></td>
   <td width="20%"></td>
   </tr>
   <tr>
   <td align="center" width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US">Laptops - Cisco</a></td>
   <td align="center" width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US">Mobile Devices - Cisco</a></td>
-  <td align="center" width="20%"></td>
+  <td align="center" width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US">Personal Computers - Cisco</a></td>
   <td align="center" width="20%"></td>
   <td align="center" width="20%"></td>
   </tr>
