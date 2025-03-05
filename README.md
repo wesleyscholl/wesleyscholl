@@ -197,7 +197,7 @@
 ### 🏅 Addtional Certifications, Training and Badges
 
 
-### 🔎 Google
+### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/1a91ce74-3b67-4a24-83bc-7dd99528d481" width="30" /></a> Google
 
 <table width="100%">
   <tr>
@@ -386,7 +386,7 @@
 
 <br>
 
-### 🖥️ Intel
+### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/766a2e86-083e-4ab9-a110-ed86ecc8e85f" width="30" /></a> Intel
 
 <table>
   <tr>
@@ -453,7 +453,8 @@
 
 <br>
 
-### 🌐 Cisco
+
+### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/2769ad27-02e5-4631-9ca6-8193d39bb51e" width="30" /></a> Cisco
 
 <table width="100%">
   <tr>
@@ -571,7 +572,7 @@
 
 <br>
 
-### 🔵 SAS
+### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/89713321-c283-45aa-b680-b2bf78fccd5e" width="30" /></a> SAS
 
 <table width="100%">
   <tr>
