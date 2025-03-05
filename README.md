@@ -483,15 +483,29 @@
   <td width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US"><img src="https://github.com/user-attachments/assets/13d8a1da-43d3-42c1-827e-9f834c176663" /></a></td>
   <td width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US"><img src="https://github.com/user-attachments/assets/40a7b9ce-c520-4743-b6f3-8ecd48c48a77" /></a></td>
   <td width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US"><img src="https://github.com/user-attachments/assets/fb885478-3d5b-4cea-947a-d96876977013" /></a></td>
-  <td width="20%"></td>
-  <td width="20%"></td>
+  <td width="20%"><a href="https://www.netacad.com/courses/introduction-iot?courseLang=en-US"><img src="https://github.com/user-attachments/assets/c86468de-c11a-406f-b1be-145eaf40c30a" /></a></td>
+  <td width="20%"><a href="https://www.netacad.com/courses/introduction-iot?courseLang=en-US"><img src="https://github.com/user-attachments/assets/2cc6e521-07cd-4c65-86b8-590b96e5509d" /></a></td>
   </tr>
   <tr>
   <td align="center" width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US">Laptops - Cisco</a></td>
   <td align="center" width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US">Mobile Devices - Cisco</a></td>
   <td align="center" width="20%"><a href="https://www.netacad.com/courses/computer-hardware-basics?courseLang=en-US">Personal Computers - Cisco</a></td>
-  <td align="center" width="20%"></td>
-  <td align="center" width="20%"></td>
+  <td align="center" width="20%"><a href="https://www.netacad.com/courses/introduction-iot?courseLang=en-US">Digital Transformation - Cisco</a></td>
+  <td align="center" width="20%"><a href="https://www.netacad.com/courses/introduction-iot?courseLang=en-US">Programming Things - Cisco</a></td>
+  </tr>
+  <tr>
+  <td width="20%"><a href="https://www.netacad.com/courses/introduction-iot?courseLang=en-US"><img src="https://github.com/user-attachments/assets/9a0d16f2-ff38-42af-a1be-987425a5996c" /></a></td>
+  <td width="20%"><a href="https://www.netacad.com/courses/introduction-iot?courseLang=en-US"><img src="https://github.com/user-attachments/assets/16336bd3-7108-45a6-aaf4-fbaf54773b99" /></a></td>
+  <td width="20%"><a href="https://www.netacad.com/courses/introduction-iot?courseLang=en-US"><img src="https://github.com/user-attachments/assets/92915698-6f78-4b18-9204-d4099f3d589e" /></a></td>
+  <td width="20%"><a href="https://www.netacad.com/courses/introduction-iot?courseLang=en-US"><img src="https://github.com/user-attachments/assets/be92a825-6118-4501-bd1a-46c9197f7794" /></a></td>
+  <td width="20%"></td>
+  </tr>
+  <tr>
+  <td align="center" width="20%"><a href="https://www.netacad.com/courses/introduction-iot?courseLang=en-US">Data Insights - Cisco</a></td>
+  <td align="center" width="20%"><a href="https://www.netacad.com/courses/introduction-iot?courseLang=en-US">Automating Things - Cisco</a></td>
+  <td align="center" width="20%"><a href="https://www.netacad.com/courses/introduction-iot?courseLang=en-US">IoT Opportunities - Cisco</a></td>
+  <td align="center" width="20%"><a href="https://www.netacad.com/courses/introduction-iot?courseLang=en-US">Securing Things - Cisco</a></td>
+   <td align="center" width="20%"></td>
   </tr>
 </table>
 
