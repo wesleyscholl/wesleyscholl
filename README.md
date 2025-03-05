@@ -190,14 +190,13 @@
   </tr>
 </table>
 
-
 <br>
 
 
 ### 🏅 Addtional Certifications, Training and Badges
 
 
-### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/1a91ce74-3b67-4a24-83bc-7dd99528d481" width="30" /></a> Google
+### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/bf05dd25-3d80-4ff8-9680-bf95734e49cc" width="30" /></a> Google
 
 <table width="100%">
   <tr>
@@ -230,8 +229,6 @@
 | <a href="https://developers.google.com/profile/u/116516670101229582839">Gemini Pro Vision Model: Image Understanding, Multimodal Prompts & Accessibility - Google</a> | <a href="https://developers.google.com/profile/u/116516670101229582839">Gemini API and Web Apps - Google</a> | <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Linear Regression - Google</a> | <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Logistic Regression - Google</a> | <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Classification - Google</a> |
 | <a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/numerical-data"><img src="https://github.com/user-attachments/assets/cc1ccc73-55e9-407a-b7f7-659c2c706456" width="250" /></a> | <a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/categorical-data"><img src="https://github.com/user-attachments/assets/08b002ff-d072-4df5-ab44-ea11075e70ef" width="250" /></a> | <a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/overfitting"><img src="https://github.com/user-attachments/assets/c04b8f19-3254-4199-81e3-23d0ee631449" width="250" /></a> | <a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/embeddings"><img src="https://github.com/user-attachments/assets/77f00f64-4c1f-4352-a916-79d0bbcd1d94" width="250" /></a> | <a href="https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/production-ml-systems"><img src="https://github.com/user-attachments/assets/899102d0-ee9b-4bf2-8b25-67f3a475d913" width="250" /></a> |
 | <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Numerical Data - Google</a> | <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Categorical Data - Google</a> | <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Datasets, Generalization, and Overfitting - Google</a> | <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Embeddings - Google</a> | <a href="https://developers.google.com/profile/u/116516670101229582839">Machine Learning Crash Course: Production ML Systems - Google</a> |
-
-
 
 </details>
 
@@ -386,7 +383,7 @@
 
 <br>
 
-### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/766a2e86-083e-4ab9-a110-ed86ecc8e85f" width="30" /></a> Intel
+### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/7c2e0984-b6ac-416d-9de1-6afb75560f96" width="30" /></a> Intel
 
 <table>
   <tr>
@@ -453,8 +450,7 @@
 
 <br>
 
-
-### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/2769ad27-02e5-4631-9ca6-8193d39bb51e" width="30" /></a> Cisco
+### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/0bdcdd31-29fd-4a9e-9cb6-201be3f31707" width="30" /></a> Cisco
 
 <table width="100%">
   <tr>
@@ -513,7 +509,7 @@
 
 <br>
 
-### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/8f23ffc7-e762-42b0-a85b-409808ee8801" width="30" /></a> SAP
+### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/71455e99-46cc-4e13-97b9-9124f9f1830f" width="30" /></a> SAP 
 
 <table width="100%">
   <tr>
@@ -586,7 +582,7 @@
 
 <br>
 
-### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/89713321-c283-45aa-b680-b2bf78fccd5e" width="30" /></a> SAS
+### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/a2d76ac0-6079-4081-8e5d-f8eecd35eeba" width="30" /></a> SAS
 
 <table width="100%">
   <tr>
@@ -607,7 +603,7 @@
 
 <br>
 
-### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/275d4f86-634c-4195-b37e-5e75184baeb9" width="30" /></a> Free Code Camp
+### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/76073077-fd26-40e2-af60-b09ad301ef9d" width="30" /></a> Free Code Camp
 
 <table>
  <tr>
