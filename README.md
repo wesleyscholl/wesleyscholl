@@ -404,7 +404,7 @@
 
 <br>
 
-### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/c4096c68-6434-42db-9b97-11cf36e8eed1" width="30" /></a> Linux Foundation
+### 🐧 Linux Foundation
 
 <table>
   <tr>
