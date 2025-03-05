@@ -234,7 +234,7 @@
 
 <br>
 
-### 🪟 Microsoft
+### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/d9ced8c5-2caa-4466-9e2d-0a3600a043ff" width="30" /></a> Microsoft
 
 <table width="100%">
   <tr>
@@ -293,7 +293,7 @@
 
 <br>
 
-### 📦 AWS
+### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/90d98b7e-a8e7-467c-b938-299eb3e867f5" width="30" /></a> AWS
 
 <table>
 <tr>
@@ -338,7 +338,7 @@
 
 <br>
 
-### 🧠 IBM
+### <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/80b8f0f6-faa5-4acb-8e7a-5d0845c4d7cc" width="30" /></a> IBM
 
 <table>
 <tr>
