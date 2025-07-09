@@ -4,7 +4,7 @@
 [👨🏻‍💻 Skills & Stats](#-skills--stats) | [🛠️ Additional Skills And Tools](#%EF%B8%8F-additional-skills-and-tools) | [🏆 Certifications](#-certifications) | [🎖️ AI Generated Badges](#%EF%B8%8F-ai-generated-badges) | [🔗 Links](#-links)
 -->
 ### 👨🏻‍💻 Skills & Stats
-![](https://img.shields.io/badge/Workflows-Argo-informational?style=flat&logo=argo&logoColor=white&color=194A6A) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=194A6A) ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=254A6A) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=254A6A) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=35607E) ![](https://img.shields.io/badge/Code-ShellScript-informational?style=flat&logo=gnubash&logoColor=white&color=35607E) ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=40607E) ![](https://img.shields.io/badge/Code-ApolloGraphQL-informational?style=flat&logo=apollographql&logoColor=white&color=40607E) ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=4887AB) ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=4887AB) ![](https://img.shields.io/badge/Code-CockroachDB-informational?style=flat&logo=cockroachlabs&logoColor=white&color=6087AB) ![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=nodedotjs&logoColor=white&color=6087AB) ![](https://img.shields.io/badge/Code-YAML-informational?style=flat&logo=yaml&logoColor=white&color=7487AB) ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&logoColor=white&color=7487AB) ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=77C7D9) ![](https://img.shields.io/badge/Workflows-GitHub-informational?style=flat&logo=github&logoColor=white&color=77C7D9)
+![](https://img.shields.io/badge/Workflows-Argo-informational?style=flat&logo=argo&logoColor=white&color=194A6A) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=194A6A) ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=254A6A) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=254A6A) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=35607E) ![](https://img.shields.io/badge/Code-ShellScript-informational?style=flat&logo=gnubash&logoColor=white&color=35607E) ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=40607E) ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=sharp&logoColor=white&color=4887AB) ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=4887AB) ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4887AB) ![](https://img.shields.io/badge/Code-Groovy-informational?style=flat&logo=apachegroovy&logoColor=white&color=4887AB) ![](https://img.shields.io/badge/Code-CockroachDB-informational?style=flat&logo=cockroachlabs&logoColor=white&color=6087AB) ![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=nodedotjs&logoColor=white&color=6087AB) ![](https://img.shields.io/badge/Code-YAML-informational?style=flat&logo=yaml&logoColor=white&color=7487AB) ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=77C7D9) ![](https://img.shields.io/badge/Workflows-GitHub-informational?style=flat&logo=github&logoColor=white&color=77C7D9)
 
 
 <div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
@@ -58,6 +58,7 @@
 
 ### 🛠️ Additional Skills And Tools
 
+![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&logoColor=white&color=77C7D9)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=77C7D9)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=77C7D9)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=77C7D9)
@@ -87,10 +88,10 @@
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=5499B0)
 ![](https://img.shields.io/badge/Code-.ENV-informational?style=flat&logo=.env&logoColor=white&color=5499B0)
 ![](https://img.shields.io/badge/Tools-AzureDevops-informational?style=flat&logo=azuredevops&logoColor=white&color=4889A2)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4889A2)
 ![](https://img.shields.io/badge/Tools-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=4889A2)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4889A2)
 ![](https://img.shields.io/badge/Tools-MicrosoftAzure-informational?style=flat&logo=microsoftazure&logoColor=white&color=4889A2)
+![](https://img.shields.io/badge/Code-ApolloGraphQL-informational?style=flat&logo=apollographql&logoColor=white&color=4889A2)
 ![](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=3D7A94)
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=3D7A94)
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=3D7A94)
@@ -136,6 +137,13 @@
 ![](https://img.shields.io/badge/Tools-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=194A6A)
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=194A6A)
 ![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-Claude-informational?style=flat&logo=claude&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-Google_Gemini-informational?style=flat&logo=googlegemini&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-Mistral_AI-informational?style=flat&logo=mistralai&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-Ollama-informational?style=flat&logo=ollama&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Tools-Perplexity-informational?style=flat&logo=perplexity&logoColor=white&color=194A6A)
+![](https://img.shields.io/badge/Education-Credly-informational?style=flat&logo=credly&logoColor=white&color=194A6A)
+
 
 <div class="flex-container" align=center>
    <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/4ec13214-0ca1-41f0-8999-351369beda0a" width="100" /></a>
