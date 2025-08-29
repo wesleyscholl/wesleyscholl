@@ -686,6 +686,7 @@
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_5932.png" height="100" />
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_7079.png" height="100" />
 <img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_2983.png" height="100" />
+<img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/main/badges/badge_4786.png" height="100" />
 </div>
 <br>
 
