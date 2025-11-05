@@ -20,13 +20,23 @@ jobs:
       #       polyglot, stargazer, deployer, member, maintainer, developer, scripter
       #     plugin_achievements_display: compact
       #     plugin_achievements_threshold: X
-      
-      - name: LeetCode
+
+      - name: Comment reactions
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.leetcode.svg
+          filename: metrics.plugin.reactions.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_leetcode_user: wesleyscholl
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
+
+      # - name: LeetCode
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.leetcode.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_leetcode_user: wesleyscholl
+      #     plugin_leetcode: yes
+      #     plugin_leetcode_sections: solved, skills, recent
