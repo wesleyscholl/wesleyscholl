@@ -57,9 +57,56 @@
 </div>
 
 <div class="flex-container" align=center>
+   <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/4ec13214-0ca1-41f0-8999-351369beda0a" width="100" /></a>
+</div>
+
+<br>
+
+
+### 📚 Featured Repos and Portfolio
+
+<div class="flex-container" align=center>
+
+#### 🤖 AI/ML Projects
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=ai-sommelier&theme=react)](https://github.com/wesleyscholl/ai-sommelier)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=book-generator&theme=react)](https://github.com/wesleyscholl/book-generator)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=VoltAI&theme=react)](https://github.com/wesleyscholl/VoltAI)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=MorphUI&theme=react)](https://github.com/wesleyscholl/MorphUI)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=autonomo&theme=react)](https://github.com/wesleyscholl/autonomo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=logician&theme=react)](https://github.com/wesleyscholl/logician)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=arbitra&theme=react)](https://github.com/wesleyscholl/arbitra)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=weather-news-agent&theme=react)](https://github.com/wesleyscholl/weather-news-agent)
+
+#### 🔥 High-Performance Computing
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=vectro-plus&theme=react)](https://github.com/wesleyscholl/vectro-plus)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=vectro&theme=react)](https://github.com/wesleyscholl/vectro)
+
+#### 🔄 Automation & Dev Tools
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=git-commit-push-script&theme=react)](https://github.com/wesleyscholl/git-commit-push-script)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=create-discussion-comment&theme=react)](https://github.com/wesleyscholl/create-discussion-comment)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=github-action-base-ts&theme=react)](https://github.com/wesleyscholl/github-action-base-ts)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=bash-scripts&theme=react)](https://github.com/wesleyscholl/bash-scripts)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=algos&theme=react)](https://github.com/wesleyscholl/algos)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=credly-badge&theme=react)](https://github.com/wesleyscholl/credly-badge)
+
+</div>
+
+<div class="flex-container" align=center>
+   
+## 🚀 [EXPLORE FULL PORTFOLIO WITH DEMOS →](https://wesleyscholl.github.io/)
+
+**Interactive UI • Live Demos • Detailed Documentation • Filter by Technology**
+
+[![View Portfolio](https://img.shields.io/badge/🎨_View_Interactive_Portfolio-Click_Here-77C7D9?style=for-the-badge)](https://wesleyscholl.github.io/)
+
+</div>
+<br>
+
+<div class="flex-container" align=center>
 <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/8b9b9f2d-6419-4760-b5cd-e1a0608064da" width="100"></a>
 </div>
 
+<br>
 
 ### 🛠️ Additional Skills And Tools
 
