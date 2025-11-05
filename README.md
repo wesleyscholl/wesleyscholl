@@ -92,8 +92,8 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=weather-news-agent&theme=react)](https://github.com/wesleyscholl/weather-news-agent)
 
 #### 🔥 High-Performance Computing
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=vectro&theme=react)](https://github.com/wesleyscholl/vectro)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=vectro-plus&theme=react)](https://github.com/wesleyscholl/vectro-plus)
 
 </div>
 
