@@ -21,15 +21,25 @@ jobs:
       #     plugin_achievements_display: compact
       #     plugin_achievements_threshold: X
 
-      - name: Comment reactions
+      - name: Pinned repositories
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.reactions.svg
+          filename: metrics.plugin.repositories.pinned.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_reactions: yes
-          plugin_reactions_limit: 100
-          plugin_reactions_details: percentage
+          plugin_repositories: yes
+          plugin_repositories_pinned: 2
+
+
+      # - name: Comment reactions
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics.plugin.reactions.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_reactions: yes
+      #     plugin_reactions_limit: 100
+      #     plugin_reactions_details: percentage
 
       # - name: LeetCode
       #   uses: lowlighter/metrics@latest
