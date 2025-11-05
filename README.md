@@ -53,8 +53,13 @@
 <br>
 
 <div class="flex-container" align=center>
+<img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/a3ccfc65406dded546e1f02d1381de9a7a8b9f28/metrics.plugin.leetcode.svg" />
+</div>
+
+<div class="flex-container" align=center>
 <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/8b9b9f2d-6419-4760-b5cd-e1a0608064da" width="100"></a>
 </div>
+
 
 ### 🛠️ Additional Skills And Tools
 
