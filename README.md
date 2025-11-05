@@ -57,6 +57,10 @@
 </div>
 
 <div class="flex-container" align=center>
+<img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/1a6d41c94c56fafb7bcbbe4ba725602335e14119/metrics.plugin.reactions.svg" />
+</div>
+
+<div class="flex-container" align=center>
    <a href="https://github.com/wesleyscholl"><img align="center" src="https://github.com/user-attachments/assets/4ec13214-0ca1-41f0-8999-351369beda0a" width="100" /></a>
 </div>
 
