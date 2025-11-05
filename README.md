@@ -696,7 +696,7 @@
 
 ### 🔗 Links
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=194A6A)](https://www.linkedin.com/in/wesleyscholl/)
+[![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-194A6A?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/wesleyscholl/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=6087AB)](https://www.instagram.com/gerard_west/)
 <img src="https://komarev.com/ghpvc/?username=wesleyscholl&label=Profile%20views&color=77C7D9" alt="wesleyscholl" />
 <br><br> 
