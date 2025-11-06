@@ -10,7 +10,7 @@ jobs:
       contents: write
     steps:
       - name: Compact display
-        uses: wesleyscholl/metrics@latest
+        uses: wesleyscholl/metrics@master
         with:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
