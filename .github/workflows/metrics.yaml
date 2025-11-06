@@ -9,17 +9,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      # - name: Compact display
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: metrics.plugin.achievements.compact.svg
-      #     token: ${{ secrets.METRICS_TOKEN }}
-      #     base: ""
-      #     plugin_achievements: yes
-      #     plugin_achievements_only: >-
-      #       polyglot, stargazer, deployer, member, maintainer, developer, scripter
-      #     plugin_achievements_display: compact
-      #     plugin_achievements_threshold: X
+      - name: Compact display
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, deployer, member, maintainer, developer, scripter
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
 
       - name: Pinned repositories
         uses: lowlighter/metrics@latest
@@ -28,25 +28,24 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
-          plugin_repositories_pinned: 2
+          plugin_repositories_pinned: 10
 
+      - name: Comment reactions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.reactions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
 
-      # - name: Comment reactions
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: metrics.plugin.reactions.svg
-      #     token: ${{ secrets.METRICS_TOKEN }}
-      #     base: ""
-      #     plugin_reactions: yes
-      #     plugin_reactions_limit: 100
-      #     plugin_reactions_details: percentage
-
-      # - name: LeetCode
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: metrics.plugin.leetcode.svg
-      #     token: ${{ secrets.METRICS_TOKEN }}
-      #     base: ""
-      #     plugin_leetcode_user: wesleyscholl
-      #     plugin_leetcode: yes
-      #     plugin_leetcode_sections: solved, skills, recent
+      - name: LeetCode
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_leetcode_user: wesleyscholl
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
