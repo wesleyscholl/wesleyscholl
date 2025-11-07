@@ -4,23 +4,25 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    container:
+      image: docker.io/library/metrics:forked-3.35.0-beta
     environment: 
       name: production
     permissions:
       contents: write
     steps:
-      - name: Compact display
-        uses: wesleyscholl/metrics@master
-        with:
-          filename: metrics.plugin.achievements.compact.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Run Metrics
+        run: |
+          # Example: run a command inside the image
+          metrics --filename metrics.plugin.achievements.compact.svg \
+                  --token ${{ secrets.METRICS_TOKEN }} \
+                  --plugin-achievements yes \
+                  --plugin-achievements-only "polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager" \
+                  --plugin-achievements-display compact \
+                  --plugin-achievements-threshold X
 
       # - name: Pinned repositories
       #   uses: lowlighter/metrics@latest
