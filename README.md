@@ -37,6 +37,9 @@
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleyscholl&theme=react" />
    
 </div>
+
+![Repository Contribution Stats](https://github-contributor-stats.vercel.app/api?username=wesleyscholl)
+
 <div class="flex-container" align=center>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleyscholl&theme=react" />
    </div>
