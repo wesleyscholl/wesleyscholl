@@ -10,7 +10,7 @@ jobs:
       contents: write
     steps:
       - name: Fresh Metrics
-        uses: wesleyscholl/metrics@v9
+        uses: wesleyscholl/metrics@v1.0
         with:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
