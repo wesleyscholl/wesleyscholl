@@ -17,4 +17,6 @@ jobs:
            base: ""
            plugin_leetcode_user: wesleyscholl
            plugin_leetcode: yes
+           plugin_leetcode_limit_skills: 20
+           plugin_leetcode_limit_recent: 5
            plugin_leetcode_sections: solved, skills, recent
