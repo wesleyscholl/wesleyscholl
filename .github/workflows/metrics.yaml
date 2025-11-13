@@ -18,7 +18,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_only: >-
             polyglot, stargazer, deployer, member, maintainer, developer,
-            scripter, infographile
+            scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
       #
@@ -40,13 +40,3 @@ jobs:
       #     plugin_reactions: yes
       #     plugin_reactions_limit: 100
       #     plugin_reactions_details: percentage
-
-      # - name: LeetCode
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #      filename: metrics.plugin.leetcode.svg
-      #      token: ${{ secrets.METRICS_TOKEN }}
-      #      base: ""
-      #      plugin_leetcode_user: wesleyscholl
-      #      plugin_leetcode: yes
-      #      plugin_leetcode_sections: solved, skills, recent
