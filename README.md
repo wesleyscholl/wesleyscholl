@@ -160,7 +160,6 @@
 ![](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=316A86)
 ![](https://img.shields.io/badge/Tools-Rancher-informational?style=flat&logo=rancher&logoColor=white&color=316A86)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=316A86)
-![](https://img.shields.io/badge/Tools-styled-components-informational?style=flat&logo=styled-components&logoColor=white&color=316A86)
 ![](https://img.shields.io/badge/Tools-Swagger-informational?style=flat&logo=swagger&logoColor=white&color=255A78)
 ![](https://img.shields.io/badge/Tools-Invision-informational?style=flat&logo=invision&logoColor=white&color=255A78)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=255A78)
