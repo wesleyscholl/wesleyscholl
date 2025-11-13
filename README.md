@@ -180,7 +180,6 @@
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=194A6A)
 ![](https://img.shields.io/badge/Tools-Splunk-informational?style=flat&logo=splunk&logoColor=white&color=194A6A)
 ![](https://img.shields.io/badge/Tools-Replit-informational?style=flat&logo=replit&logoColor=white&color=194A6A)
-![](https://img.shields.io/badge/Tools-React-Router-informational?style=flat&logo=reactrouter&logoColor=white&color=194A6A)
 ![](https://img.shields.io/badge/Tools-Perplexity-informational?style=flat&logo=perplexity&logoColor=white&color=194A6A)
 ![](https://img.shields.io/badge/Tools-OpenAPI-informational?style=flat&logo=openapiinitiative&logoColor=white&color=194A6A)
 ![](https://img.shields.io/badge/Tools-nvm-informational?style=flat&logo=nvm&logoColor=white&color=194A6A)
