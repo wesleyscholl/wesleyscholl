@@ -54,11 +54,11 @@
 <br>
 
 <div class="flex-container" align=center>
-<img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/a3ccfc65406dded546e1f02d1381de9a7a8b9f28/metrics.plugin.leetcode.svg" />
+<img src="/metrics.plugin.leetcode.svg" />
 </div>
 
 <div class="flex-container" align=center>
-<img src="https://raw.githubusercontent.com/wesleyscholl/wesleyscholl/1a6d41c94c56fafb7bcbbe4ba725602335e14119/metrics.plugin.reactions.svg" />
+<img src="/metrics.plugin.reactions.svg" />
 </div>
 
 <br>
