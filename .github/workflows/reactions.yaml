@@ -1,4 +1,4 @@
-name: Metrics
+name: Reactions
 on:
   workflow_dispatch:
 jobs:
