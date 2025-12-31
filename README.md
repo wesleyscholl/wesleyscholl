@@ -31,10 +31,10 @@
 <div class="flex-container" align=top>
 <!--    <a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="500" /></a> -->
 
-<img height=175 src="https://github-readme-stats-blue-two-60.vercel.app/api/top-langs/?username=wesleyscholl&theme=react&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&hide=jupyter%20notebook,html" />
+<img height=190 src="https://github-readme-stats-blue-two-60.vercel.app/api/top-langs/?username=wesleyscholl&theme=react&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&hide=jupyter%20notebook,html" />
 
-   <img height=175 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleyscholl&theme=react&layout=compact" />
-   <img height=175 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleyscholl&theme=react&layout=compact" />
+   <img height=190 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleyscholl&theme=react&layout=compact" />
+   <img height=190 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleyscholl&theme=react&layout=compact" />
    
 </div>
 
