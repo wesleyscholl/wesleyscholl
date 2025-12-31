@@ -75,26 +75,26 @@
 <div class="flex-container" align=center>
 
 #### 🔄 Automation & Dev Tools
-[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=credly-badge&theme=react)](https://github.com/wesleyscholl/credly-badge)
-[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=create-discussion-comment&theme=react)](https://github.com/wesleyscholl/create-discussion-comment)
-[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=github-action-base-ts&theme=react)](https://github.com/wesleyscholl/github-action-base-ts)
-[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=git-commit-push-script&theme=react)](https://github.com/wesleyscholl/git-commit-push-script)
+[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=credly-badge&theme=react&hide_border=true)](https://github.com/wesleyscholl/credly-badge)
+[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=create-discussion-comment&theme=react&hide_border=true)](https://github.com/wesleyscholl/create-discussion-comment)
+[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=github-action-base-ts&theme=react&hide_border=true)](https://github.com/wesleyscholl/github-action-base-ts)
+[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=git-commit-push-script&theme=react&hide_border=true)](https://github.com/wesleyscholl/git-commit-push-script)
 [![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=bash-scripts&theme=react&icon_color=61DBFB)](https://github.com/wesleyscholl/bash-scripts)
 [![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=algos&theme=react)](https://github.com/wesleyscholl/algos)
 
 #### 🤖 AI/ML Projects
-[![Repo Card](https://github-readme-stats.vercel-blue-two-60.app/api/pin/?username=wesleyscholl&repo=VoltAI&theme=react)](https://github.com/wesleyscholl/VoltAI)
-[![Repo Card](https://github-readme-stats.vercel-blue-two-60.app/api/pin/?username=wesleyscholl&repo=autonomo&theme=react)](https://github.com/wesleyscholl/autonomo)
-[![Repo Card](https://github-readme-stats.vercel-blue-two-60.app/api/pin/?username=wesleyscholl&repo=ai-sommelier&theme=react)](https://github.com/wesleyscholl/ai-sommelier)
-[![Repo Card](https://github-readme-stats.vercel-blue-two-60.app/api/pin/?username=wesleyscholl&repo=book-generator&theme=react)](https://github.com/wesleyscholl/book-generator)
-[![Repo Card](https://github-readme-stats.vercel-blue-two-60.app/api/pin/?username=wesleyscholl&repo=MorphUI&theme=react)](https://github.com/wesleyscholl/MorphUI)
-[![Repo Card](https://github-readme-stats.vercel-blue-two-60.app/api/pin/?username=wesleyscholl&repo=logician&theme=react)](https://github.com/wesleyscholl/logician)
-[![Repo Card](https://github-readme-stats.vercel-blue-two-60.app/api/pin/?username=wesleyscholl&repo=arbitra&theme=react)](https://github.com/wesleyscholl/arbitra)
-[![Repo Card](https://github-readme-stats.vercel-blue-two-60.app/api/pin/?username=wesleyscholl&repo=weather-news-agent&theme=react)](https://github.com/wesleyscholl/weather-news-agent)
+[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=VoltAI&theme=react)](https://github.com/wesleyscholl/VoltAI)
+[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=autonomo&theme=react)](https://github.com/wesleyscholl/autonomo)
+[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=ai-sommelier&theme=react)](https://github.com/wesleyscholl/ai-sommelier)
+[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=book-generator&theme=react)](https://github.com/wesleyscholl/book-generator)
+[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=MorphUI&theme=react)](https://github.com/wesleyscholl/MorphUI)
+[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=logician&theme=react)](https://github.com/wesleyscholl/logician)
+[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=arbitra&theme=react)](https://github.com/wesleyscholl/arbitra)
+[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=weather-news-agent&theme=react)](https://github.com/wesleyscholl/weather-news-agent)
 
 #### 🔥 High-Performance Computing
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=vectro&theme=react)](https://github.com/wesleyscholl/vectro)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wesleyscholl&repo=vectro-plus&theme=react&icon_color=61DBFB)](https://github.com/wesleyscholl/vectro-plus)
+[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=vectro&theme=react)](https://github.com/wesleyscholl/vectro)
+[![Repo Card](https://github-readme-stats-blue-two-60.vercel.app/api/pin/?username=wesleyscholl&repo=vectro-plus&theme=react&icon_color=61DBFB)](https://github.com/wesleyscholl/vectro-plus)
 
 </div>
 
