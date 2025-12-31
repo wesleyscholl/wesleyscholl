@@ -33,8 +33,8 @@
 
 <img src="https://github-readme-stats-blue-two-60.vercel.app/api/top-langs/?username=wesleyscholl&theme=react&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&hide=jupyter%20notebook,html" />
 
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleyscholl&theme=react" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleyscholl&theme=react" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleyscholl&theme=react&layout=compact" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleyscholl&theme=react&layout=compact" />
    
 </div>
 
