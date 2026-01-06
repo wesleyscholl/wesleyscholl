@@ -18,7 +18,7 @@
 <a href="https://github.com/wesleyscholl"><img alt="Wesley's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=wesleyscholl&bg_color=20232A&color=62DAFB&line=62DAFB&point=FFFFFF&height=250&radius=5"/></a>
    </div>
    
-<div class="flex-container" align=center><!-- .element: style="display: flex; flex-direction: row;" -->
+<div class="flex-container" align=center><!-- Animated contribution graphs -->
 <img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=calendar&format=svg&weeks=8&theme=cyan&dark=true" />
 
 <img src="https://ssr-contributions-svg.vercel.app/_/wesleyscholl?chart=3dbar&flatten=1&animation=mess&animation_duration=6&animation_loop=true&weeks=8&theme=cyan&format=svg&dark=true" />
@@ -29,12 +29,11 @@
 <div class="flex-container" align=center>
 
 <div class="flex-container" align=top>
-<!--    <a href="https://stats.hyochan.dev/en/stats/wesleyscholl"><img src="https://stats.hyochan.dev/api/github-stats?login=wesleyscholl" width="500" /></a> -->
 
-<img height=190 src="https://github-readme-stats-blue-two-60.vercel.app/api/top-langs/?username=wesleyscholl&theme=react&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&hide=jupyter%20notebook,html" />
+<img width="33%" height="175" src="https://github-readme-stats-blue-two-60.vercel.app/api/top-langs/?username=wesleyscholl&theme=react&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&hide=jupyter%20notebook,html&text_bold=false" />
 
-   <img height=190 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleyscholl&theme=react&layout=compact" />
-   <img height=190 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleyscholl&theme=react&layout=compact" />
+   <img width="33%" height="175" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleyscholl&theme=react" />
+   <img width="33%" height="175" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleyscholl&theme=react" />
    
 </div>
 
