@@ -48,7 +48,7 @@
 
 </div>
 <div class="flex-container" align=center>
-<img src="https://github-profile-trophy-winning.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues" width="80%" height="100" />
+<img src="https://github-profile-trophy-pink-two.vercel.app/?username=wesleyscholl&theme=algolia&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues" width="80%" height="100" />
 </div>
 <br>
 
